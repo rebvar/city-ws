@@ -1,0 +1,13 @@
+
+#localhost
+mysql -p -u root
+
+CREATE USER 'rebvar'@'localhost' IDENTIFIED BY 'rebvar';
+
+create database
+
+grant all privileges on location_db.* to 'rebvar'@'localhost';
+
+
+#Docker-compose
+docker-compose up -d --build --force-recreate

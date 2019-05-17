@@ -1,0 +1,35 @@
+version: '3'
+services:
+  r_mysql:
+    container_name: r_mysql
+    image: mysql:latest
+    environment:
+      MYSQL_DATABASE: location_db
+      MYSQL_USER: 'rebvar'
+      MYSQL_PASSWORD: 'rebvar'
+      MYSQL_ROOT_PASSWORD: rebvar
+    volumes:
+    - /data/mysql
+    ports:
+    - 3306:3306
+    expose:
+    - 3306
+#    restart: always
+#    healthcheck:
+#        test: ["CMD", "curl", "-f", "http://r_mysql:3306"]
+#        interval: 5s
+#        timeout: 5s
+#        retries: 20  
+
+  app:
+    restart: on-failure
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    depends_on:
+      - r_mysql
+    ports:
+      - 8080:8080
+    volumes:
+      - /data/app
+      

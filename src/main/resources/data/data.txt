@@ -1,0 +1,4065 @@
+africa,botswana,gaborone
+africa,botswana,francistown
+africa,burundi,bujumbura
+africa,egypt,abo keber
+africa,egypt,alexandria
+africa,egypt,zagazig
+africa,egypt,assya»t
+africa,egypt,cairo
+africa,egypt,giza
+africa,egypt,banha
+africa,egypt,desok
+africa,egypt,el-aresh
+africa,egypt,suez
+africa,egypt,menia
+africa,egypt,tanta
+africa,egypt,port said
+africa,egypt,el-mataria
+africa,egypt,kena
+africa,egypt,faiya»m
+africa,egypt,ramadan
+africa,egypt,shubra-el-khema
+africa,egypt,kaluop
+africa,egypt,bilbes
+africa,egypt,kafr-el-dwar
+africa,egypt,aswan
+africa,egypt,matrouh
+africa,egypt,damanha»r
+africa,egypt,luxer
+africa,egypt,shebin-el-kom
+africa,egypt,mansa»ra
+africa,egypt,beni-suef
+africa,egypt,el-mahalla el-kubra
+africa,egypt,sohag
+africa,egypt,al orizah
+africa,egypt,gerga
+africa,egypt,el-khosos
+africa,egypt,akhmim
+africa,egypt,imbaba
+africa,egypt,6th of october city
+africa,egypt,met ghamr
+africa,egypt,ismailia
+africa,egypt,malawe
+africa,egypt,damietta
+africa,egypt,el-hwamdia
+africa,eritrea,asmara
+africa,gabon,libreville
+africa,gambia,banju
+africa,ghana,kumasi
+africa,ghana,takoradi
+africa,ghana,tema
+africa,ghana,tamale
+africa,ghana,sekondi
+africa,ghana,accra
+africa,kenya,kikuyu
+africa,kenya,garissa
+africa,kenya,ngong
+africa,kenya,nakuru
+africa,kenya,eldoret
+africa,kenya,ruiru
+africa,kenya,thika
+africa,kenya,nairobi
+africa,kenya,mombasa
+africa,kenya,kisumu
+africa,kenya,mavoko/athiriver
+africa,lesotho,maseru
+africa,madagascar,toamasina
+africa,madagascar,mahajanga
+africa,madagascar,fianarantsoa
+africa,madagascar,antananarivo
+africa,madagascar,antsirabe
+africa,malawi,blantyre city
+africa,malawi,lilongwe
+africa,mauritania,nouakchott
+africa,mauritius,vacoas - phoenix
+africa,mauritius,beau bassin - rose hill
+africa,mauritius,port louis
+africa,namibia,windhoek
+africa,niger,niamey
+africa,rwanda,kigali
+africa,sao tome and principe,sao tome
+africa,senegal,pikine
+africa,senegal,saint louis
+africa,senegal,dakar
+africa,senegal,rufisque
+africa,senegal,ziguinchor
+africa,senegal,diourbel
+africa,senegal,guediawaye
+africa,senegal,thias
+africa,senegal,mbour
+africa,senegal,kaolack
+africa,south africa,pretoria
+africa,uganda,kampala
+africa,zambia,livingstone
+africa,zambia,chipata
+africa,zambia,ndola
+africa,zambia,kabwe
+africa,zambia,kitwe
+africa,zambia,mufulira
+africa,zambia,kasama
+africa,zambia,lusaka
+africa,zambia,luanshya
+africa,zambia,chingola
+africa,zimbabwe,harare
+africa,zimbabwe,gweru
+africa,zimbabwe,chitungwiza
+africa,zimbabwe,bulawayo
+africa,zimbabwe,mutare
+asia,bahrain,manama
+asia,bangladesh,nawabganj
+asia,bangladesh,tongi
+asia,bangladesh,dinajpur
+asia,bangladesh,chittagong
+asia,bangladesh,mymensingh
+asia,bangladesh,naogaon
+asia,bangladesh,pabna
+asia,bangladesh,brahmanbaria
+asia,bangladesh,narsingdi
+asia,bangladesh,gazipur
+asia,bangladesh,jamalpur
+asia,bangladesh,saidpur
+asia,bangladesh,rajshahi
+asia,bangladesh,sirajganj
+asia,bangladesh,jessore
+asia,bangladesh,comilla
+asia,bangladesh,rangpur
+asia,bangladesh,barisal
+asia,bangladesh,tangail
+asia,bangladesh,dhaka
+asia,bangladesh,narayanganj
+asia,bangladesh,kadamrasul
+asia,bangladesh,bogra
+asia,bangladesh,khulna
+asia,bhutan,thimphu
+asia,china,linhe
+asia,china,jinzhou (hebei)
+asia,china,qingdao
+asia,china,ningan
+asia,china,ankang
+asia,china,hulin
+asia,china,fengnan
+asia,china,muling
+asia,china,shangzhi
+asia,china,tongshi
+asia,china,xingcheng
+asia,china,xinyi (guangdong)
+asia,china,zhalantun
+asia,china,guangshui
+asia,china,hetian
+asia,china,anyang
+asia,china,huazhou
+asia,china,shouguang
+asia,china,yingde
+asia,china,penglai
+asia,china,fangchenggang
+asia,china,leizhou
+asia,china,dunhuang
+asia,china,ruzhou
+asia,china,huzhou
+asia,china,yuzhou
+asia,china,zhengzhou
+asia,china,zibo
+asia,china,tongling
+asia,china,yingko
+asia,china,xiangcheng
+asia,china,wenling
+asia,china,xifeng
+asia,china,zhuanghe
+asia,china,qinhuangdao
+asia,china,dongxing
+asia,china,ma'anshan
+asia,china,wujin
+asia,china,shijiazhuang
+asia,china,ningde
+asia,china,wuxian
+asia,china,huanggang
+asia,china,kuitun
+asia,china,qinyang
+asia,china,datong
+asia,china,zhongshan
+asia,china,guigang
+asia,china,ningbo
+asia,china,baotou
+asia,china,wuxi
+asia,china,gaomi
+asia,china,xi'an
+asia,china,beiliu
+asia,china,liuzhou
+asia,china,taonan
+asia,china,lishui
+asia,china,changle
+asia,china,baoding
+asia,china,sanya
+asia,china,gaoyao
+asia,china,kaiyuan (yunnan)
+asia,china,shaowu
+asia,china,xinyi (jiangsu)
+asia,china,cenxi
+asia,china,baiyin
+asia,china,hangzhou
+asia,china,yining
+asia,china,beining
+asia,china,chaoyang (guangdong)
+asia,china,zunyi
+asia,china,yanji
+asia,china,qingzhou
+asia,china,bengbu
+asia,china,anguo
+asia,china,kunming
+asia,china,ya'an
+asia,china,shangrao
+asia,china,qufu
+asia,china,xiamen
+asia,china,xingtai
+asia,china,renhuai
+asia,china,yanshi
+asia,china,wuchuan
+asia,china,chifeng
+asia,china,haiyang
+asia,china,luohe
+asia,china,tongjiang
+asia,china,huaiyin
+asia,china,kaiping
+asia,china,leping
+asia,china,baoji
+asia,china,changde
+asia,china,xuanwei
+asia,china,lianjiang
+asia,china,huadian
+asia,china,kashi (xinjiang)
+asia,china,xingyi
+asia,china,zhuozhou
+asia,china,chongzhou
+asia,china,liaocheng
+asia,china,pinghu
+asia,china,hefei
+asia,china,linghai
+asia,china,beihai
+asia,china,chizhou
+asia,china,lanxi
+asia,china,xinzhou
+asia,china,jiande
+asia,china,yangzhou
+asia,china,wuzhong
+asia,china,xinyu
+asia,china,jinjiang
+asia,china,jiaxing
+asia,china,taiyuan
+asia,china,liling
+asia,china,lishi
+asia,china,wuwei
+asia,china,zengcheng
+asia,china,cixi
+asia,china,kelamayi
+asia,china,huangshi (hubei)
+asia,china,gaocheng
+asia,china,chuxiong
+asia,china,nanjing
+asia,china,weihui
+asia,china,lu'an
+asia,china,pingxiang (guangxi)
+asia,china,simao
+asia,china,tongliao
+asia,china,leling
+asia,china,huangshan
+asia,china,chenghai
+asia,china,jingmen
+asia,china,changzhi
+asia,china,yongji
+asia,china,wudalianchi
+asia,china,yangchun
+asia,china,rizhao
+asia,china,jinhua
+asia,china,gaoan
+asia,china,jiangjin
+asia,china,bei'an
+asia,china,jilin
+asia,china,yizhou
+asia,china,sihui
+asia,china,yangquan
+asia,china,xianning
+asia,china,jian (jilin)
+asia,china,zhuhai
+asia,china,qujing
+asia,china,dexing
+asia,china,xinhui
+asia,china,linqing
+asia,china,weinan
+asia,china,zhangzhou
+asia,china,hailun
+asia,china,male
+asia,china,zhangjiakou
+asia,china,bijie
+asia,china,miquan
+asia,china,mishan
+asia,china,puning
+asia,china,yushu
+asia,china,jiexiu
+asia,china,kuerle
+asia,china,guixi
+asia,china,aletai
+asia,china,yunfu
+asia,china,hengshui
+asia,china,shangzhou
+asia,china,fuquan
+asia,china,beipiao
+asia,china,yulin (shaanxi)
+asia,china,zhijiang
+asia,china,gongzhuling
+asia,china,longquan
+asia,china,yangzhong
+asia,china,xingning
+asia,china,gaoping
+asia,china,huozhou
+asia,china,rongcheng
+asia,china,feicheng
+asia,china,nangong
+asia,china,gaoyou
+asia,china,kaifeng
+asia,china,jinshi
+asia,china,binzhou
+asia,china,chuzhou
+asia,china,hancheng
+asia,china,xinmin
+asia,china,lasa
+asia,china,jiaohe
+asia,china,gaobeidian
+asia,china,jinzhong
+asia,china,jieshou
+asia,china,yuanping
+asia,china,zhumadian
+asia,china,hongjiang
+asia,china,jiangmen
+asia,china,lingwu
+asia,china,haerbin
+asia,china,tongzhou
+asia,china,handan
+asia,china,hengyang
+asia,china,dazhou
+asia,china,tianchang
+asia,china,suining
+asia,china,longjing
+asia,china,longhai
+asia,china,qixia
+asia,china,maoming
+asia,china,lingbao
+asia,china,songzi
+asia,china,bazhou
+asia,china,dengta
+asia,china,luoyang
+asia,china,ganzhou
+asia,china,cangzhou
+asia,china,pingdingshan
+asia,china,xinxiang
+asia,china,yanzhou
+asia,china,dashiqiao
+asia,china,lucheng
+asia,china,panshi
+asia,china,fengzhen
+asia,china,neijiang
+asia,china,lianyuan
+asia,china,mianyang
+asia,china,chaozhou
+asia,china,pingliang
+asia,china,baise
+asia,china,helong
+asia,china,guiping
+asia,china,wuxue
+asia,china,shahe
+asia,china,jinggangshan
+asia,china,bole
+asia,china,nanhai
+asia,china,zhangshu
+asia,china,dongguan
+asia,china,ruichang
+asia,china,langzhong
+asia,china,wulanhaote
+asia,china,nanchang
+asia,china,changshu
+asia,china,hejin
+asia,china,jixi
+asia,china,zhaoqing
+asia,china,lianyungang
+asia,china,benxi
+asia,china,huainan
+asia,china,shengzhou
+asia,china,jining (inner mongolia)
+asia,china,liupanshui
+asia,china,qianjiang
+asia,china,akeshu
+asia,china,suzhou (jiangsu)
+asia,china,dengfeng
+asia,china,taicang
+asia,china,dangyang
+asia,china,tongchuan
+asia,china,qingtongxia
+asia,china,dalian
+asia,china,tongcheng
+asia,china,jining (shandong)
+asia,china,jingjiang
+asia,china,nantong
+asia,china,jiyuan
+asia,china,danjiangkou
+asia,china,dongtai
+asia,china,dunhua
+asia,china,yidu
+asia,china,shenyang
+asia,china,jingzhou
+asia,china,tianmen
+asia,china,deyang
+asia,china,beijing (peking)
+asia,china,dandong
+asia,china,jurong
+asia,china,xishan
+asia,china,changchun
+asia,china,guanghan
+asia,china,shunde
+asia,china,daye
+asia,china,kunshan
+asia,china,mudanjiang
+asia,china,shifang
+asia,china,jiangyan
+asia,china,chengde
+asia,china,shuangcheng
+asia,china,gaozhou
+asia,china,dingzhou
+asia,china,anning
+asia,china,wenzhou
+asia,china,huhehaote
+asia,china,yueyang
+asia,china,ziyang
+asia,china,acheng
+asia,china,xianyang
+asia,china,yiwu
+asia,china,yongchuan
+asia,china,zhangqiu
+asia,china,xuzhou
+asia,china,xiantao
+asia,china,haimen
+asia,china,dongyang
+asia,china,changge
+asia,china,putian
+asia,china,yongan
+asia,china,manzhouli
+asia,china,enshi
+asia,china,weihai
+asia,china,baoshan
+asia,china,lengshuijiang
+asia,china,quzhou
+asia,china,ruili
+asia,china,emeishan
+asia,china,sanshui
+asia,china,shangyu
+asia,china,dongsheng
+asia,china,ruian
+asia,china,yongkang
+asia,china,zunhua
+asia,china,yicheng
+asia,china,jianyang (sichuan)
+asia,china,zhaoyuan
+asia,china,heyuan
+asia,china,wendeng
+asia,china,jinchang
+asia,china,guilin
+asia,china,jiaozhou
+asia,china,wuchang
+asia,china,yiyang
+asia,china,qinzhou
+asia,china,shuangliao
+asia,china,xuancheng
+asia,china,fu'an
+asia,china,fuyang (zhejiang)
+asia,china,daqing
+asia,china,yizheng
+asia,china,female
+asia,china,linyi
+asia,china,yucheng
+asia,china,hailaer
+asia,china,jiayuguan
+asia,china,qingzhen
+asia,china,shangqiu
+asia,china,shenzhou
+asia,china,jincheng
+asia,china,songyuan
+asia,china,shizuishan
+asia,china,tongren
+asia,china,qidong
+asia,china,geermu
+asia,china,tumen
+asia,china,nanxiong
+asia,china,anqiu
+asia,china,gaoming
+asia,china,guiyang
+asia,china,xiangtan
+asia,china,quanzhou
+asia,china,qionglai
+asia,china,shaoxing
+asia,china,zhuzhou
+asia,china,linzhou
+asia,china,hejian
+asia,china,lechang
+asia,china,xiangxiang
+asia,china,kaili
+asia,china,pengzhou
+asia,china,xinmi
+asia,china,anlu
+asia,china,yuncheng
+asia,china,meizhou
+asia,china,liaoyang
+asia,china,linan
+asia,china,renqiu
+asia,china,taizhou (zhejiang)
+asia,china,zoucheng
+asia,china,da'an
+asia,china,enping
+asia,china,zhoukou
+asia,china,dongying
+asia,china,fuyang (anhui)
+asia,china,wuan
+asia,china,fujin
+asia,china,zhuji
+asia,china,wuhu
+asia,china,laixi
+asia,china,jiaozuo
+asia,china,taizhou (jiangsu)
+asia,china,wuyishan
+asia,china,leiyang
+asia,china,chongqing
+asia,china,yixing
+asia,china,laohekou
+asia,china,panzhihua
+asia,china,tianjin
+asia,china,jianyang (fujian)
+asia,china,zhucheng
+asia,china,jiangyin
+asia,china,wanning
+asia,china,hezhou
+asia,china,chaohu
+asia,china,jimo
+asia,china,nanning
+asia,china,shishi
+asia,china,laiwu
+asia,china,huizhou
+asia,china,haikou
+asia,china,xiaoshan
+asia,china,pulandian
+asia,china,jianou
+asia,china,yingcheng
+asia,china,zhanjiang
+asia,china,pingdu
+asia,china,yongcheng
+asia,china,changsha
+asia,china,anda
+asia,china,dujiangyan
+asia,china,shantou
+asia,china,yongzhou
+asia,china,laizhou
+asia,china,jiaonan
+asia,china,meishan
+asia,china,mianzhu
+asia,china,tongxiang
+asia,china,urumqi
+asia,china,jiamusi
+asia,china,suizhou
+asia,china,chishui
+asia,china,sanming
+asia,china,hechuan
+asia,china,yuhang
+asia,china,tieli
+asia,china,honghu
+asia,china,botou
+asia,china,huaihua
+asia,china,guangan
+asia,china,fuding
+asia,china,linhai
+asia,china,fenyang
+asia,china,yancheng
+asia,china,fuzhou (fujian)
+asia,china,shuangyashan
+asia,china,xiaoyi
+asia,china,longkou
+asia,china,jiangdu
+asia,china,zhaodong
+asia,china,shuozhou
+asia,china,leqing
+asia,china,langfang
+asia,china,luxi (yunnan)
+asia,china,haicheng
+asia,china,xinji
+asia,china,donggang
+asia,china,wuhai
+asia,china,duyun
+asia,china,jiangyou
+asia,china,huiyang
+asia,china,qingyuan
+asia,china,fenghua
+asia,china,nanan
+asia,china,ningguo
+asia,china,qianan
+asia,china,mingguang
+asia,china,tiefa
+asia,china,siping
+asia,china,guangzhou
+asia,china,luoding
+asia,china,lichuan
+asia,china,wusu
+asia,china,genhe
+asia,china,heihe
+asia,china,pingxiang (jiangxi)
+asia,china,wanyuan
+asia,china,xilinhaote
+asia,china,gaizhou
+asia,china,shihezi
+asia,china,loudi
+asia,china,fuxin
+asia,china,fuzhou (jiangxi)
+asia,china,yibin
+asia,china,yakeshi
+asia,china,yan'an
+asia,china,gongyi
+asia,china,tengzhou
+asia,china,shaoyang
+asia,china,huaibei
+asia,china,xingping
+asia,china,nankang
+asia,china,fuqing
+asia,china,jizhou
+asia,china,qitaihe
+asia,china,bozhou
+asia,china,chenzhou
+asia,china,jieyang
+asia,china,wuzhou
+asia,china,sanmenxia
+asia,china,zhongxiang
+asia,china,taixing
+asia,china,xinyang
+asia,china,suzhou (anhui)
+asia,china,weifang
+asia,china,haining
+asia,china,yingtan
+asia,china,tieling
+asia,china,xiaogan
+asia,china,atushi
+asia,china,sanhe
+asia,china,xiangfan
+asia,china,huayin
+asia,china,lufeng
+asia,china,jiangshan
+asia,china,shanghai
+asia,china,xinghua
+asia,china,tacheng
+asia,china,huaying
+asia,china,fukang
+asia,china,xinle
+asia,china,zhangye
+asia,china,guangyuan
+asia,china,heze
+asia,china,shanwei
+asia,china,ruijin
+asia,china,meihekou
+asia,china,huixian
+asia,china,nanchuan
+asia,china,ezhou
+asia,china,changzhou
+asia,china,yuxi
+asia,china,zhangping
+asia,china,shishou
+asia,china,jishou
+asia,china,shulan
+asia,china,lianzhou
+asia,china,luquan
+asia,china,changji
+asia,china,baishan
+asia,china,yantai
+asia,china,dali
+asia,china,yuyao
+asia,china,shiyan
+asia,china,zhangjiajie
+asia,china,laiyang
+asia,china,liuyang
+asia,china,xuchang
+asia,china,changning
+asia,china,bazhong
+asia,china,qionghai
+asia,china,zhoushan
+asia,china,wuhan
+asia,china,jingdezhen
+asia,china,jinghong
+asia,china,hegang
+asia,china,linxiang
+asia,china,jinzhou (liaoning)
+asia,china,nehe
+asia,china,zigong
+asia,china,miluo
+asia,china,tai'an
+asia,china,xingyang
+asia,china,anshan
+asia,china,chibi
+asia,china,zhaotong
+asia,china,yichun (heilongjiang)
+asia,china,xichang
+asia,china,danzhou
+asia,china,gujiao
+asia,china,suqian
+asia,china,conghua
+asia,china,qiqihaer
+asia,china,tonghua
+asia,china,suihua
+asia,china,lanzhou
+asia,china,heshan (guangxi)
+asia,china,rugao
+asia,china,xintai
+asia,china,hailin
+asia,china,gejiu
+asia,china,heshan (guangdong)
+asia,china,chengdu
+asia,china,yinchuan
+asia,china,jinan
+asia,china,qiongshan
+asia,china,lingyuan
+asia,china,dezhou
+asia,china,shenzhen
+asia,china,yichun (jiangxi)
+asia,china,leshan
+asia,china,wafangdian
+asia,china,nanyang
+asia,china,nanchong
+asia,china,pizhou
+asia,china,hechi
+asia,china,yulin (guangxi)
+asia,china,linjiang
+asia,china,zixing
+asia,china,foshan
+asia,china,huludao
+asia,china,baicheng
+asia,china,zhenjiang
+asia,china,wenchang
+asia,china,anqing
+asia,china,jiuquan
+asia,china,hunchun
+asia,china,panjin
+asia,china,fengcheng (jiangxi)
+asia,china,luzhou
+asia,china,liyang
+asia,china,liaoyuan
+asia,china,changyi
+asia,china,houma
+asia,china,dafeng
+asia,china,hanzhong
+asia,china,xinzheng
+asia,china,rushan
+asia,china,wujiang
+asia,china,huanghua
+asia,china,fushun
+asia,china,ji'an (jiangxi)
+asia,china,puyang
+asia,china,linfen
+asia,china,yumen
+asia,china,yima
+asia,china,dengzhou
+asia,china,nanping
+asia,china,hanchuan
+asia,china,wugang (henan)
+asia,china,xining
+asia,china,hami
+asia,china,zhangjiagang
+asia,china,dongfang
+asia,china,shaoguan
+asia,china,dehui
+asia,china,danyang
+asia,china,yuanjiang
+asia,china,taishan
+asia,china,hebi
+asia,china,linxia
+asia,china,yangjiang
+asia,china,tianshui
+asia,china,yichang
+asia,china,tangshan
+asia,china,wugang (hunan)
+asia,china,zaozhuang
+asia,china,kaiyuan (liaoning)
+asia,china,jintan
+asia,china,anshun
+asia,china,chaoyang (liaoning)
+asia,china,jiujiang
+asia,china,jiutai
+asia,china,macheng
+asia,china,tulufan
+asia,china,zaoyang
+asia,china,huaian
+asia,china,longyan
+asia,china,fengcheng (liaoning)
+asia,india,palwal
+asia,india,jammu
+asia,india,pune
+asia,india,tiruchchirappalli
+asia,india,jind
+asia,india,burhanpur
+asia,india,akola
+asia,india,deoghar
+asia,india,arrah
+asia,india,north dumdum
+asia,india,bharuch
+asia,india,dhule
+asia,india,lucknow
+asia,india,rampur
+asia,india,bellary
+asia,india,bihar
+asia,india,pondicherry
+asia,india,ambattur
+asia,india,sasaram
+asia,india,bareilly
+asia,india,tiruppur
+asia,india,lalitpur
+asia,india,vadakara
+asia,india,mandsaur
+asia,india,dasarahalli
+asia,india,rohtak
+asia,india,ahmednagar
+asia,india,delhi cantonment
+asia,india,dohad
+asia,india,darjiling
+asia,india,malappuram
+asia,india,vasai
+asia,india,chirala
+asia,india,karimnagar
+asia,india,sonipat
+asia,india,durg-bhilai nagar
+asia,india,sitapur
+asia,india,serampore
+asia,india,solapur
+asia,india,bhusawal
+asia,india,khardaha
+asia,india,bathinda
+asia,india,malerkotla
+asia,india,roorkee
+asia,india,serilingampalle
+asia,india,madurai
+asia,india,kolar
+asia,india,fatehpur
+asia,india,hanumangarh
+asia,india,unnao
+asia,india,anantapur
+asia,india,shimla
+asia,india,murwara (katni)
+asia,india,silchar
+asia,india,motihari
+asia,india,hospet
+asia,india,kanchrapara
+asia,india,mira-bhayandar
+asia,india,jagadhri
+asia,india,ujjain
+asia,india,ajmer
+asia,india,durgapur
+asia,india,jetpur navagadh
+asia,india,ambarnath
+asia,india,barddhaman
+asia,india,bhatpara
+asia,india,jalna
+asia,india,sultanpur
+asia,india,uttarpara kotrung
+asia,india,birnagar
+asia,india,rae bareli
+asia,india,bangaon
+asia,india,navi mumbai (new bombay)
+asia,india,baranagar
+asia,india,nashik
+asia,india,gurgaon
+asia,india,bhilai nagar
+asia,india,ganganagar
+asia,india,kolhapur
+asia,india,pimpri chinchwad
+asia,india,hugli-chinsurah
+asia,india,jalpaiguri
+asia,india,kozhikode
+asia,india,hassan
+asia,india,baleshwar
+asia,india,kannur
+asia,india,bhuj
+asia,india,bidar
+asia,india,valsad
+asia,india,proddatur
+asia,india,kamarhati
+asia,india,mughalsarai
+asia,india,hyderabad
+asia,india,khargone
+asia,india,guwahati
+asia,india,tenali
+asia,india,davangere
+asia,india,ulhasnagar
+asia,india,raigarh
+asia,india,chikmagalur
+asia,india,shillong
+asia,india,mangalore
+asia,india,rajpur sonarpur
+asia,india,anklesvar
+asia,india,nangloi jat
+asia,india,guntakul
+asia,india,ahmedabad
+asia,india,sirsa
+asia,india,erode
+asia,india,barshi
+asia,india,meerut
+asia,india,bahraich
+asia,india,bhilwara
+asia,india,krishnanagar
+asia,india,tambaram
+asia,india,dehradun
+asia,india,morvi
+asia,india,adilabad
+asia,india,bhavani
+asia,india,aizawl
+asia,india,rajnandgaon
+asia,india,chandigarh
+asia,india,dewas
+asia,india,haldwani-cum-kathgodam
+asia,india,kolkata (calcutta)
+asia,india,surendranagar dudhrej
+asia,india,titagarh
+asia,india,hazaribag
+asia,india,surat
+asia,india,nagpur
+asia,india,jalgaon
+asia,india,aurangabad
+asia,india,hisar
+asia,india,aligarh
+asia,india,gudivada
+asia,india,loni
+asia,india,kothagudem
+asia,india,cherthala
+asia,india,kaithal
+asia,india,sangli-miraj-kupwad
+asia,india,thanesar
+asia,india,thanjavur
+asia,india,mancherial
+asia,india,haldia
+asia,india,chhatarpur
+asia,india,bhopal
+asia,india,mahbubnagar
+asia,india,siwan
+asia,india,virar
+asia,india,anand
+asia,india,habra
+asia,india,bhiwani
+asia,india,amravati
+asia,india,gangapur city
+asia,india,tirunelveli
+asia,india,tumkur
+asia,india,batala
+asia,india,kurnool
+asia,india,chandrapur
+asia,india,gandhinagar
+asia,india,barasat
+asia,india,jodhpur
+asia,india,bulandshahr
+asia,india,robertson pet
+asia,india,sambalpur
+asia,india,vellore
+asia,india,abohar
+asia,india,kapra
+asia,india,jaunpur
+asia,india,mirzapur-cum-vindhyachal
+asia,india,wadhwan
+asia,india,budaun
+asia,india,shimoga
+asia,india,quthbullapur
+asia,india,sagar
+asia,india,maunath bhanjan
+asia,india,achalpur
+asia,india,bilaspur
+asia,india,english bazar
+asia,india,ambala
+asia,india,vidisha
+asia,india,pollachi
+asia,india,sambhal
+asia,india,chhindwara
+asia,india,rajkot
+asia,india,morena
+asia,india,udupi
+asia,india,srinagar
+asia,india,santipur
+asia,india,krishnarajapura
+asia,india,etawah
+asia,india,cuddalore
+asia,india,mahadevapura
+asia,india,damoh
+asia,india,palanpur
+asia,india,neyveli
+asia,india,kottayam
+asia,india,nellore
+asia,india,hindupur
+asia,india,mysore
+asia,india,nizamabad
+asia,india,rewari
+asia,india,hubli-dharwad
+asia,india,bhubaneswar
+asia,india,patan
+asia,india,jhansi
+asia,india,rajapalayam
+asia,india,faizabad
+asia,india,madanapalle
+asia,india,dallo pura
+asia,india,tirupati
+asia,india,varanasi
+asia,india,bokaro steel city
+asia,india,halisahar
+asia,india,s.a.s. nagar (mohali)
+asia,india,deoli
+asia,india,ranchi
+asia,india,tonk
+asia,india,junagadh
+asia,india,mainpuri
+asia,india,raniganj
+asia,india,imphal
+asia,india,bankura
+asia,india,bhalswa jahangir pur
+asia,india,bharatpur
+asia,india,etah
+asia,india,uppal kalan
+asia,india,vadodara
+asia,india,patiala
+asia,india,gulbarga
+asia,india,thane
+asia,india,veraval
+asia,india,sawai madhopur
+asia,india,rishra
+asia,india,ambala sadar
+asia,india,medinipur
+asia,india,amritsar
+asia,india,nagaon
+asia,india,dehri
+asia,india,rajarhat gopalpur
+asia,india,bijapur
+asia,india,ozhukarai
+asia,india,palakkad
+asia,india,kamptee
+asia,india,mahesana
+asia,india,mumbai (bombay)
+asia,india,basti
+asia,india,sivakasi
+asia,india,kishangarh
+asia,india,balurghat
+asia,india,rajendranagar
+asia,india,jamnagar
+asia,india,saharanpur
+asia,india,gondiya
+asia,india,vizianagarm
+asia,india,thoothukkudi (tuticorin)
+asia,india,churu
+asia,india,tiruvottiyur
+asia,india,shivapuri
+asia,india,maheshtala
+asia,india,vejalpur
+asia,india,nala sopara
+asia,india,ramgarh
+asia,india,chapra
+asia,india,lal bahadur nagar
+asia,india,siliguri
+asia,india,bangalore
+asia,india,faridabad
+asia,india,adoni
+asia,india,tadepalligudem
+asia,india,guruvayur
+asia,india,gudiyatham
+asia,india,saharasa
+asia,india,agartala
+asia,india,gangawati
+asia,india,chitradurga
+asia,india,salem
+asia,india,bhagalpur
+asia,india,jabalpur
+asia,india,asansol
+asia,india,bansberia
+asia,india,begusarai
+asia,india,bommanahalli
+asia,india,kakinada
+asia,india,chirkunda
+asia,india,sikar
+asia,india,jagdalpur
+asia,india,panchkula urban estate
+asia,india,pudukkottai
+asia,india,jaipur
+asia,india,udaipur
+asia,india,amroha
+asia,india,kumbakonam
+asia,india,yavatmal
+asia,india,mango
+asia,india,latur
+asia,india,munger
+asia,india,ludhiana
+asia,india,basirhat
+asia,india,kukatpalle
+asia,india,raurkela
+asia,india,godhra
+asia,india,kharagpur
+asia,india,baripada
+asia,india,tezpur
+asia,india,vijayawada
+asia,india,kochi
+asia,india,kirari suleman nagar
+asia,india,jalandhar
+asia,india,bahadurgarh
+asia,india,guna
+asia,india,raichur
+asia,india,shahjahanpur
+asia,india,kanpur
+asia,india,chandan nagar
+asia,india,farrukhabad-cum-fategarh
+asia,india,porbandar
+asia,india,kanhangad
+asia,india,kalol
+asia,india,bidhan nagar
+asia,india,hapur
+asia,india,gorakhpur
+asia,india,mormugoa
+asia,india,firozabad
+asia,india,delhi
+asia,india,koch bihar
+asia,india,khandwa
+asia,india,dindigul
+asia,india,patna
+asia,india,adityapur
+asia,india,durg
+asia,india,karaikkudi
+asia,india,warangal
+asia,india,naihati
+asia,india,nalgonda
+asia,india,coonoor
+asia,india,south dum dum
+asia,india,chittoor
+asia,india,hardwar
+asia,india,noida
+asia,india,jhunjhunun
+asia,india,panihati
+asia,india,deoria
+asia,india,bhadreswar
+asia,india,karawal nagar
+asia,india,bikaner
+asia,india,pallavaram
+asia,india,srikakulam
+asia,india,katihar
+asia,india,raurkela industrialship
+asia,india,jorhat
+asia,india,puruliya
+asia,india,kollam
+asia,india,bhind
+asia,india,karnal
+asia,india,phusro
+asia,india,vaniyambadi
+asia,india,muzaffarpur
+asia,india,navghar-manikpur
+asia,india,alappuzha
+asia,india,pali
+asia,india,dhanbad
+asia,india,satna
+asia,india,kulti
+asia,india,chakdaha
+asia,india,hoshiarpur
+asia,india,alwar
+asia,india,north barrackpur
+asia,india,champdani
+asia,india,satara
+asia,india,cuddapah
+asia,india,beawar
+asia,india,botad
+asia,india,orai
+asia,india,visakhapatnam
+asia,india,allahabad
+asia,india,belgaum
+asia,india,darbhanga
+asia,india,thiruvananthapuram
+asia,india,rajahmundry
+asia,india,new delhi
+asia,india,pilibhit
+asia,india,bhadravati
+asia,india,bhavnagar
+asia,india,uluberia
+asia,india,dibrugarh
+asia,india,rewa
+asia,india,gajuwaka
+asia,india,itarsi
+asia,india,panvel
+asia,india,parbhani
+asia,india,kancheepuram
+asia,india,ghaziabad
+asia,india,khanna
+asia,india,arcot
+asia,india,wardha
+asia,india,baharampur
+asia,india,karur
+asia,india,ghazipur
+asia,india,alandur
+asia,india,puri
+asia,india,baidyabati
+asia,india,moga
+asia,india,nadiad
+asia,india,raiganj
+asia,india,jamshedpur
+asia,india,jamuria
+asia,india,modinagar
+asia,india,giridih
+asia,india,nabadwip
+asia,india,navsari
+asia,india,hardoi
+asia,india,nagercoil
+asia,india,ghatlodiya
+asia,india,brahmapur
+asia,india,tiruvannamalai
+asia,india,eluru
+asia,india,yamunanagar
+asia,india,avadi
+asia,india,malegaon
+asia,india,mathura
+asia,india,chandausi
+asia,india,bally
+asia,india,ratlam
+asia,india,panipat
+asia,india,chennai (madras)
+asia,india,phagwara
+asia,india,madhyamgram
+asia,india,khammam
+asia,india,pathankot
+asia,india,raipur
+asia,india,gwalior
+asia,india,ramagundam
+asia,india,guntur
+asia,india,barrackpur
+asia,india,singrauli
+asia,india,kota
+asia,india,bid
+asia,india,kalyan
+asia,india,sultan pur majra
+asia,india,dumdum
+asia,india,alipurduar
+asia,india,ichalakaranji
+asia,india,nanded
+asia,india,muzaffarnagar
+asia,india,mandya
+asia,india,hathras
+asia,india,ballia
+asia,india,bettiah
+asia,india,haora (howrah)
+asia,india,neemuch
+asia,india,hajipur
+asia,india,thrissur
+asia,india,byatarayanapura
+asia,india,coimbatore
+asia,india,ongole
+asia,india,bheemavaram
+asia,india,bhiwandi
+asia,india,dinapur nizamat
+asia,india,tinsukia
+asia,india,banda
+asia,india,lakhimpur
+asia,india,malkajgiri
+asia,india,ranaghat
+asia,india,gonda
+asia,india,gadag-betgeri
+asia,india,gandhidham
+asia,india,secunderabad
+asia,india,moradabad
+asia,india,agra
+asia,india,machilipatnam
+asia,india,korba
+asia,india,purnia
+asia,india,gaya
+asia,india,ashoknagar kalyangarh
+asia,india,cuttack
+asia,india,dharmavaram
+asia,india,nandyal
+asia,india,indore
+asia,indonesia,gorontalo
+asia,indonesia,bogor
+asia,indonesia,salatiga
+asia,indonesia,jayapura
+asia,indonesia,semarang
+asia,indonesia,jakarta
+asia,indonesia,pare pare
+asia,indonesia,mataram
+asia,indonesia,balikpapan
+asia,indonesia,banda aceh
+asia,indonesia,bandar lampung
+asia,indonesia,pontianak
+asia,indonesia,tebing tinggi
+asia,indonesia,batam
+asia,indonesia,yogyakarta
+asia,indonesia,probolinggo
+asia,indonesia,surakarta
+asia,indonesia,samarinda
+asia,indonesia,kediri
+asia,indonesia,denpasar
+asia,indonesia,ambon
+asia,indonesia,surabaya
+asia,indonesia,blitar
+asia,indonesia,palembang
+asia,indonesia,pasuruan
+asia,indonesia,magelang
+asia,indonesia,tanjung balai
+asia,indonesia,pakalongan
+asia,indonesia,pematang siantar
+asia,indonesia,makasar (ujung pandang)
+asia,indonesia,madiun
+asia,indonesia,bandung
+asia,indonesia,mojokerto
+asia,indonesia,jambi
+asia,indonesia,tangerang
+asia,indonesia,cirebon (tjirebon)
+asia,indonesia,tegal
+asia,indonesia,bandjarmasin
+asia,indonesia,bengkulu
+asia,indonesia,malang
+asia,indonesia,manado
+asia,indonesia,sukabumi
+asia,indonesia,pangkal pinang
+asia,indonesia,palangkaraya
+asia,indonesia,medan
+asia,indonesia,bitung
+asia,indonesia,pakanbaru
+asia,indonesia,padang
+asia,indonesia,binjai
+asia,iran,fasa
+asia,iran,zabol
+asia,iran,qods
+asia,iran,nazar abad
+asia,iran,karaj
+asia,iran,iranshahr
+asia,iran,yasooj
+asia,iran,malard
+asia,iran,shahreza
+asia,iran,shoosh
+asia,iran,bushehr
+asia,iran,esfahan
+asia,iran,kashan
+asia,iran,varamin
+asia,iran,qom
+asia,iran,jahrom
+asia,iran,babol
+asia,iran,semnan
+asia,iran,najafabad
+asia,iran,izeh
+asia,iran,dorud
+asia,iran,sari
+asia,iran,sirjan
+asia,iran,maraqeh
+asia,iran,gonbad-e-kavus
+asia,iran,tabriz
+asia,iran,arak
+asia,iran,saveh
+asia,iran,bandar-e-abbas
+asia,iran,amol
+asia,iran,bandar-e-anzali
+asia,iran,ilam
+asia,iran,kerman
+asia,iran,qarchak
+asia,iran,shahinshahr
+asia,iran,shiraz
+asia,iran,marivan
+asia,iran,mohammad shahr
+asia,iran,sanandaj
+asia,iran,nasim shahr
+asia,iran,andimeshk
+asia,iran,gorgan
+asia,iran,jiroft
+asia,iran,rafsanjan
+asia,iran,pakdasht
+asia,iran,golestan (soltanabad)
+asia,iran,tehran
+asia,iran,qaem shahr
+asia,iran,bojnurd
+asia,iran,khoramshahr
+asia,iran,abadan
+asia,iran,mashhad
+asia,iran,sabzewar
+asia,iran,zanjan
+asia,iran,behbahan
+asia,iran,borujerd
+asia,iran,shahriar
+asia,iran,birjand
+asia,iran,mahabad
+asia,iran,neyshabur
+asia,iran,quchan
+asia,iran,bandar-e-mahshahr
+asia,iran,kermanshah
+asia,iran,malayer
+asia,iran,torbat-e-heydariyeh
+asia,iran,shahr-e-kord
+asia,iran,masjed soleyman
+asia,iran,saqez
+asia,iran,marand
+asia,iran,khoramabad
+asia,iran,shahrud
+asia,iran,kamal shahr
+asia,iran,rasht
+asia,iran,dezful
+asia,iran,yazd
+asia,iran,bukand
+asia,iran,khoy
+asia,iran,ardabil
+asia,iran,orumiyeh
+asia,iran,hamadan
+asia,iran,miandoab
+asia,iran,ahwaz
+asia,iran,khomeini shahr
+asia,iran,bam
+asia,iran,qazvin
+asia,iran,zahedan
+asia,iran,islam shahr (qasemabad)
+asia,iran,marvadsht
+asia,israel,petah tiqwa
+asia,israel,bene beraq
+asia,israel,rehovot
+asia,israel,netanya
+asia,israel,haifa
+asia,israel,rishon leziyyon
+asia,israel,jerusalem
+asia,israel,bat yam
+asia,israel,ashdod
+asia,israel,holon
+asia,israel,tel aviv-yafo
+asia,israel,ashqelon
+asia,israel,be'er sheva
+asia,israel,ramat gan
+asia,japan,fukaya
+asia,japan,shimonoseki
+asia,japan,toyonaka
+asia,japan,kodaira
+asia,japan,kumamoto
+asia,japan,soka
+asia,japan,kamakura
+asia,japan,higashikurume
+asia,japan,ichinomiya
+asia,japan,higashiosaka
+asia,japan,sano
+asia,japan,toyama
+asia,japan,sendai
+asia,japan,aizuwakamatsu
+asia,japan,abiko
+asia,japan,himeji
+asia,japan,akishima
+asia,japan,omiya
+asia,japan,kirishima
+asia,japan,matsumoto
+asia,japan,chigasaki
+asia,japan,inazawa
+asia,japan,hanamaki
+asia,japan,fukuoka
+asia,japan,koshigaya
+asia,japan,kitakyushu
+asia,japan,yaizu
+asia,japan,niiza
+asia,japan,tokyo
+asia,japan,uruma
+asia,japan,ebina
+asia,japan,kashihara
+asia,japan,hachioji
+asia,japan,ashikaga
+asia,japan,kazo
+asia,japan,saga
+asia,japan,sayama
+asia,japan,narashino
+asia,japan,tsuyama
+asia,japan,kanuma
+asia,japan,uji
+asia,japan,yamato
+asia,japan,hirosaki
+asia,japan,fukuyama
+asia,japan,iida
+asia,japan,fujinomiya
+asia,japan,iwakuni
+asia,japan,nishio
+asia,japan,iga
+asia,japan,hirakata
+asia,japan,shimizu
+asia,japan,kuwana
+asia,japan,shimada
+asia,japan,tajimi
+asia,japan,saku
+asia,japan,morioka
+asia,japan,iwatsuki
+asia,japan,fujimi
+asia,japan,aomori
+asia,japan,fujimino
+asia,japan,higashimurayama
+asia,japan,ichihara
+asia,japan,kakamigahara
+asia,japan,higashihiroshima
+asia,japan,asahikawa
+asia,japan,nasushiobara
+asia,japan,neyagawa
+asia,japan,mishima
+asia,japan,komatsu
+asia,japan,miyazaki
+asia,japan,hatsukaichi
+asia,japan,minoh
+asia,japan,habikino
+asia,japan,oshu
+asia,japan,niigata
+asia,japan,itami
+asia,japan,yokote
+asia,japan,tokushima
+asia,japan,komaki
+asia,japan,matsudo
+asia,japan,isahaya
+asia,japan,musashino
+asia,japan,iwaki
+asia,japan,hiratsuka
+asia,japan,hikone
+asia,japan,fuchu
+asia,japan,ise
+asia,japan,matsuyama
+asia,japan,sagamihara
+asia,japan,yatsushiro
+asia,japan,chiba
+asia,japan,seto
+asia,japan,sakai
+asia,japan,zama
+asia,japan,iwata
+asia,japan,okinawa
+asia,japan,tomakomai
+asia,japan,hoya
+asia,japan,matsusaka
+asia,japan,kawaguchi
+asia,japan,ishinomaki
+asia,japan,takatsuki
+asia,japan,izumo
+asia,japan,tokai
+asia,japan,toyohashi
+asia,japan,nishitokyo
+asia,japan,hamamatsu
+asia,japan,onomichi
+asia,japan,koga
+asia,japan,tama
+asia,japan,joetsu
+asia,japan,niihama
+asia,japan,gifu
+asia,japan,kochi
+asia,japan,narita
+asia,japan,imabari
+asia,japan,mitaka
+asia,japan,kitami
+asia,japan,kakogawa
+asia,japan,tsukuba
+asia,japan,hadano
+asia,japan,hachinohe
+asia,japan,chikushino
+asia,japan,kamagaya
+asia,japan,kiryu
+asia,japan,takamatsu
+asia,japan,oyama
+asia,japan,tsuchiura
+asia,japan,akita
+asia,japan,urasoe
+asia,japan,sasebo
+asia,japan,koganei
+asia,japan,yokohama
+asia,japan,kawagoe
+asia,japan,ome
+asia,japan,kusatsu
+asia,japan,utsunomiya
+asia,japan,shizuoka
+asia,japan,ube
+asia,japan,higashiomi
+asia,japan,tochigi
+asia,japan,sapporo
+asia,japan,kasugai
+asia,japan,kisarazu
+asia,japan,moriguchi
+asia,japan,nagano
+asia,japan,satsumasendai
+asia,japan,takaoka
+asia,japan,naha
+asia,japan,izumisano
+asia,japan,hofu
+asia,japan,fukushima
+asia,japan,kushiro
+asia,japan,kasuga
+asia,japan,izumi (osaka)
+asia,japan,toda
+asia,japan,kuki
+asia,japan,urawa
+asia,japan,anjo
+asia,japan,shibata
+asia,japan,toride
+asia,japan,kashiwa
+asia,japan,shunan
+asia,japan,hitachi
+asia,japan,wakayama
+asia,japan,mihara
+asia,japan,ebetsu
+asia,japan,hino
+asia,japan,kawachinagano
+asia,japan,miyakonojo
+asia,japan,nobeoka
+asia,japan,noda
+asia,japan,oita
+asia,japan,odawara
+asia,japan,osaka
+asia,japan,yachiyo
+asia,japan,yonago
+asia,japan,hitachinaka
+asia,japan,kofu
+asia,japan,hakusan
+asia,japan,obihiro
+asia,japan,suita
+asia,japan,iruma
+asia,japan,tokuyama
+asia,japan,maebashi
+asia,japan,nagasaki
+asia,japan,iizuka
+asia,japan,mito
+asia,japan,kumagaya
+asia,japan,tokorozawa
+asia,japan,fuji
+asia,japan,akashi
+asia,japan,kagoshima
+asia,japan,sakura
+asia,japan,funabashi
+asia,japan,numazu
+asia,japan,chikusei
+asia,japan,asaka
+asia,japan,beppu
+asia,japan,nagareyama
+asia,japan,fujisawa
+asia,japan,nara
+asia,japan,sanjo
+asia,japan,yokosuka
+asia,japan,ueda
+asia,japan,urayasu
+asia,japan,nagahama
+asia,japan,okayama
+asia,japan,isesaki
+asia,japan,kanoya
+asia,japan,kadoma
+asia,japan,kyoto
+asia,japan,marugame
+asia,japan,yokkaichi
+asia,japan,nishinomiya
+asia,japan,sanda
+asia,japan,kanazawa
+asia,japan,hiroshima
+asia,japan,misato
+asia,japan,machida
+asia,japan,matsue
+asia,japan,kokubunji
+asia,japan,hakodate
+asia,japan,karatsu
+asia,japan,tsuruoka
+asia,japan,atsugi
+asia,japan,tsu
+asia,japan,fukui
+asia,japan,kakegawa
+asia,japan,koriyama
+asia,japan,nagaoka
+asia,japan,kawanishi
+asia,japan,suzuka
+asia,japan,tachikawa
+asia,japan,toyokawa
+asia,japan,handa
+asia,japan,omuta
+asia,japan,kasukabe
+asia,japan,ibaraki
+asia,japan,yamagata
+asia,japan,amagasaki
+asia,japan,kurume
+asia,japan,ogaki
+asia,japan,otsu
+asia,japan,kariya
+asia,japan,yao
+asia,japan,sakado
+asia,japan,saitama
+asia,japan,saijo
+asia,japan,nagoya
+asia,japan,daito
+asia,japan,sakata
+asia,japan,ikoma
+asia,japan,kobe
+asia,japan,konosu
+asia,japan,ota
+asia,japan,osaki
+asia,japan,ichikawa
+asia,japan,kurashiki
+asia,japan,matsubara
+asia,japan,takarazuka
+asia,japan,takasaki
+asia,japan,yamaguchi
+asia,japan,otaru
+asia,japan,ichinoseki
+asia,japan,ikeda
+asia,japan,fujieda
+asia,japan,kishiwada
+asia,japan,kawasaki
+asia,japan,tondabayashi
+asia,japan,tottori
+asia,japan,muroran
+asia,japan,ageo
+asia,japan,isehara
+asia,japan,toyota
+asia,japan,kure
+asia,japan,chofu
+asia,japan,okazaki
+asia,jordan,russiefa
+asia,jordan,zarqa
+asia,jordan,amman
+asia,jordan,irbid
+asia,kazakhstan,rudni
+asia,kazakhstan,semipalatinsk
+asia,kazakhstan,petropavlovsk (severo- kazakhstanskaya oblast)
+asia,kazakhstan,uralsk
+asia,kazakhstan,astana
+asia,kazakhstan,kustanai
+asia,kazakhstan,taraz
+asia,kazakhstan,kyzylorda
+asia,kazakhstan,almaty
+asia,kazakhstan,pavlodar
+asia,kazakhstan,temirtau
+asia,kazakhstan,karaganda
+asia,kazakhstan,aktobe
+asia,kazakhstan,shimkent
+asia,kazakhstan,aktau
+asia,kazakhstan,koktshetau
+asia,kazakhstan,ust-kamenogorsk
+asia,kazakhstan,taldykorgan
+asia,kazakhstan,atirau
+asia,kazakhstan,ekibastuz
+asia,kuwait,jaleeb al-shuykh
+asia,kuwait,kuwait city
+asia,kuwait,salmiya
+asia,kyrgyzstan,bishkek
+asia,kyrgyzstan,osh
+asia,lebanon,beirut
+asia,malaysia,bandar penggaram
+asia,malaysia,balakong
+asia,malaysia,butterworth
+asia,malaysia,seremban
+asia,malaysia,kuantan
+asia,malaysia,kajang dan sungai chua
+asia,malaysia,bandar maharani
+asia,malaysia,sungai ara
+asia,malaysia,kuala terengganu
+asia,malaysia,shah alam
+asia,malaysia,kuching
+asia,malaysia,mb ipoh
+asia,malaysia,bukit mertajam
+asia,malaysia,gelugor
+asia,malaysia,air itam
+asia,malaysia,bintulu
+asia,malaysia,ampang/ulu kelang
+asia,malaysia,seleyang baru
+asia,malaysia,kota kinabalu
+asia,malaysia,mp kota bharu
+asia,malaysia,mb johor bahru
+asia,malaysia,subang jaya
+asia,malaysia,miri
+asia,malaysia,petaling jaya
+asia,malaysia,pasir gudang
+asia,malaysia,kulai
+asia,malaysia,lahad datu
+asia,malaysia,klang
+asia,malaysia,melaka
+asia,malaysia,sandakan
+asia,malaysia,kluang
+asia,malaysia,kuala lumpur
+asia,malaysia,taiping
+asia,malaysia,bt9 cheras/sg raya/tmn suntex
+asia,malaysia,sungai petani
+asia,malaysia,alor setar
+asia,malaysia,sibu
+asia,malaysia,sekudai
+asia,malaysia,tawau
+asia,malaysia,kulim
+asia,malaysia,georgetown
+asia,malaysia,ampang
+asia,maldives,mala‰
+asia,mongolia,ovorhangay
+asia,mongolia,ulaanbaatar
+asia,mongolia,hovsgol
+asia,nepal,pokhara
+asia,nepal,dhangadhi
+asia,nepal,dharan
+asia,nepal,kathmandu
+asia,nepal,bharatpur
+asia,nepal,bhimdutta
+asia,nepal,lalitpur
+asia,nepal,butwal
+asia,nepal,biratnagar
+asia,nepal,birgunj
+asia,oman,as suwayq
+asia,oman,bawshar
+asia,oman,muscat
+asia,oman,mutrah
+asia,oman,salalah
+asia,oman,as seeb
+asia,oman,sohar
+asia,pakistan,jhelum
+asia,pakistan,larkana
+asia,pakistan,quetta
+asia,pakistan,sialkote
+asia,pakistan,muridke
+asia,pakistan,faisalabad (lyallpur)
+asia,pakistan,daska
+asia,pakistan,kasur
+asia,pakistan,pakpattan
+asia,pakistan,karachi
+asia,pakistan,jhang
+asia,pakistan,abbotabad
+asia,pakistan,burewala
+asia,pakistan,peshawar
+asia,pakistan,rawalpindi
+asia,pakistan,dadu
+asia,pakistan,multan
+asia,pakistan,bahawalpur
+asia,pakistan,jaranwala
+asia,pakistan,khairpur
+asia,pakistan,muzaffargharh
+asia,pakistan,okara
+asia,pakistan,khanewal
+asia,pakistan,islamabad
+asia,pakistan,sahiwal
+asia,pakistan,kamoke
+asia,pakistan,sadiqabad
+asia,pakistan,chishtian
+asia,pakistan,shakkarpur
+asia,pakistan,mangora
+asia,pakistan,sargodha
+asia,pakistan,sukkur
+asia,pakistan,bahawalnagar
+asia,pakistan,gujrat
+asia,pakistan,hafizabad
+asia,pakistan,khanpur
+asia,pakistan,tandoadam
+asia,pakistan,gojra
+asia,pakistan,gujranwala
+asia,pakistan,wah cantonment
+asia,pakistan,nawabshah
+asia,pakistan,sheikhu pura
+asia,pakistan,kohat
+asia,pakistan,hyderabad
+asia,pakistan,chiniot
+asia,pakistan,mirpur khas
+asia,pakistan,mardan
+asia,pakistan,lahore
+asia,pakistan,jacobabad
+asia,pakistan,rahimyar khan
+asia,pakistan,dera ghazi khan
+asia,philippines,malasiqui
+asia,philippines,quezon city
+asia,philippines,dagupan
+asia,philippines,tarlac
+asia,philippines,calumpit
+asia,philippines,la trinidad
+asia,philippines,liloan
+asia,philippines,bia±an
+asia,philippines,silang
+asia,philippines,floridablanca
+asia,philippines,hagonoy
+asia,philippines,santa maria
+asia,philippines,minglanilla
+asia,philippines,arayat
+asia,philippines,candelaria
+asia,philippines,santo tomas (batangas)
+asia,philippines,tabuk
+asia,philippines,valencia
+asia,philippines,malabon
+asia,philippines,guagua
+asia,philippines,antipolo
+asia,philippines,tacloban
+asia,philippines,tuguegarao
+asia,philippines,marilao
+asia,philippines,trece martires
+asia,philippines,imus city
+asia,philippines,bago
+asia,philippines,porac
+asia,philippines,cotabato
+asia,philippines,san pedro
+asia,philippines,calamba
+asia,philippines,makati
+asia,philippines,danao city
+asia,philippines,apalit
+asia,philippines,plaridel
+asia,philippines,puerto princesa
+asia,philippines,pikit
+asia,philippines,polomolok
+asia,philippines,cainta
+asia,philippines,marikina
+asia,philippines,toledo
+asia,philippines,ozamis
+asia,philippines,baguio
+asia,philippines,zamboanga
+asia,philippines,malita
+asia,philippines,manila
+asia,philippines,capas
+asia,philippines,dasmaria±as
+asia,philippines,angeles
+asia,philippines,general trias
+asia,philippines,koronadal
+asia,philippines,naga (camarines sur)
+asia,philippines,mexico
+asia,philippines,tabaco
+asia,philippines,tanauan
+asia,philippines,digos
+asia,philippines,mariveles
+asia,philippines,naga (cebu)
+asia,philippines,cabanatuan
+asia,philippines,magalang
+asia,philippines,surigao
+asia,philippines,san jose del monte
+asia,philippines,ormoc
+asia,philippines,general santos
+asia,philippines,mati
+asia,philippines,san pablo
+asia,philippines,angono
+asia,philippines,butuan
+asia,philippines,carcar
+asia,philippines,laoag
+asia,philippines,cabuyao
+asia,philippines,las pia±as
+asia,philippines,malabalay
+asia,philippines,marawi
+asia,philippines,daraga (locsin)
+asia,philippines,jolo
+asia,philippines,midsayap
+asia,philippines,mandaluyong
+asia,philippines,lucena city
+asia,philippines,concepcion
+asia,philippines,san fernando (la union)
+asia,philippines,urdaneta
+asia,philippines,los baa±os
+asia,philippines,taytay
+asia,philippines,calapan
+asia,philippines,navotas
+asia,philippines,meycauayan
+asia,philippines,pasay
+asia,philippines,rodriguez (montalban)
+asia,philippines,malolos
+asia,philippines,roxas
+asia,philippines,tagum
+asia,philippines,olongapo
+asia,philippines,calbayog
+asia,philippines,baliuag
+asia,philippines,consolacion
+asia,philippines,sagay city
+asia,philippines,gapan
+asia,philippines,san jose city (nueva ecija)
+asia,philippines,kabankalan
+asia,philippines,rosario
+asia,philippines,mandaue
+asia,philippines,cadiz
+asia,philippines,talisay
+asia,philippines,glan
+asia,philippines,san fernando (pampanga)
+asia,philippines,pagadian
+asia,philippines,iligan
+asia,philippines,pasig
+asia,philippines,bacoor city
+asia,philippines,libmanan
+asia,philippines,bacolod
+asia,philippines,philippines: ligao
+asia,philippines,lipa
+asia,philippines,san miguel
+asia,philippines,valenzuela
+asia,philippines,tanza
+asia,philippines,bayambang
+asia,philippines,muntinlupa
+asia,philippines,cagayan de oro
+asia,philippines,mabalacat
+asia,philippines,paranaque
+asia,philippines,san mateo
+asia,philippines,panabo
+asia,philippines,santiago
+asia,philippines,davao
+asia,philippines,himamaylan
+asia,philippines,bocaue
+asia,philippines,talavera
+asia,philippines,legazpi
+asia,philippines,ilagan
+asia,philippines,iriga
+asia,philippines,bayawan (tulong)
+asia,philippines,taguig
+asia,philippines,baybay
+asia,philippines,batangas
+asia,philippines,basilan
+asia,philippines,lapu-lapu
+asia,philippines,kidapawan
+asia,philippines,san carlos (pangasinan)
+asia,philippines,san jose (occidental mindoro)
+asia,philippines,san carlos (negros occidental)
+asia,philippines,santo tomas ( davao del norte)
+asia,philippines,san juan
+asia,philippines,dipolog
+asia,philippines,silay
+asia,philippines,guimba
+asia,philippines,sorsogon
+asia,philippines,dumaguete
+asia,philippines,santa rosa
+asia,philippines,norzagaray
+asia,philippines,cauayan
+asia,philippines,candaba
+asia,philippines,iloilo
+asia,philippines,kalookan (caloocan)
+asia,philippines,cebu
+asia,philippines,cavite city
+asia,philippines,gingoog
+asia,philippines,nasugbu
+asia,philippines,sariaya
+asia,philippines,binangonan
+asia,philippines,santa cruz
+asia,philippines,gen. mariano alvarez
+asia,philippines,lubao
+asia,qatar,al-wakrah
+asia,qatar,doha
+asia,qatar,al-khoor
+asia,qatar,al-rayyan
+asia,russia,kamyshin
+asia,russia,esentuky
+asia,russia,kazan
+asia,russia,yaroslavl
+asia,russia,tambov
+asia,russia,mezhdurechensk
+asia,russia,balashikha
+asia,russia,angarsk
+asia,russia,izhevsk
+asia,russia,kolomna
+asia,russia,rostov-na-donu
+asia,russia,petrozavodsk
+asia,russia,elista
+asia,russia,samara (samarskaya oblast)
+asia,russia,vladivostok
+asia,russia,ulyanovsk
+asia,russia,chita
+asia,russia,kamensk-uralsky
+asia,russia,novotroitsk
+asia,russia,groznyi
+asia,russia,biisk
+asia,russia,kopeysk
+asia,russia,oktyabrsky
+asia,russia,belgorod
+asia,russia,kurgan
+asia,russia,kansk
+asia,russia,miass
+asia,russia,ust-ulimsk
+asia,russia,lipetsk
+asia,russia,astrakhan
+asia,russia,nefteyugansk
+asia,russia,balakovo
+asia,russia,nizhny tagil
+asia,russia,stavropol
+asia,russia,orsk
+asia,russia,novocheboksarsk
+asia,russia,shchelkovo
+asia,russia,volzhsky
+asia,russia,vladikavkaz (osetinskaya assr)
+asia,russia,orekhovo-zuevo
+asia,russia,uhta
+asia,russia,murmansk
+asia,russia,neftekamsk
+asia,russia,omsk
+asia,russia,podolsk
+asia,russia,berezniki
+asia,russia,noyabrsk
+asia,russia,pyatigorsk
+asia,russia,krasnoyarsk
+asia,russia,novokuybishevsk
+asia,russia,novoshakhtinsk
+asia,russia,novorossiysk
+asia,russia,cheboksary
+asia,russia,salavat
+asia,russia,bryansk
+asia,russia,zlatoust
+asia,russia,kislovodsk
+asia,russia,novocherkassk
+asia,russia,tolyatti
+asia,russia,rybinsk
+asia,russia,severodvinsk
+asia,russia,smolensk
+asia,russia,voronezh
+asia,russia,ivanovo
+asia,russia,krasnogorsk
+asia,russia,pskov
+asia,russia,serov
+asia,russia,ekaterinburg
+asia,russia,stary oskol
+asia,russia,serpukhov
+asia,russia,ryazan
+asia,russia,kaluga
+asia,russia,nakhodka
+asia,russia,magadan
+asia,russia,tver
+asia,russia,zheleznodorozhny
+asia,russia,glazov
+asia,russia,vologda
+asia,russia,kyzyl
+asia,russia,sarapyul
+asia,russia,chelyabinsk
+asia,russia,kiselevsk
+asia,russia,kursk
+asia,russia,makhachkala
+asia,russia,naltchik
+asia,russia,khabarovsk
+asia,russia,novy urengoy
+asia,russia,saransk
+asia,russia,orel
+asia,russia,kemerovo
+asia,russia,kaliningrad (kaliningradskaya oblast)
+asia,russia,hasaviurt
+asia,russia,novomoskovsk (tulskaya oblast)
+asia,russia,maikop
+asia,russia,moskva
+asia,russia,nevinnomyssk
+asia,russia,artem (primorskiy krai)
+asia,russia,orenburg
+asia,russia,norilsk
+asia,russia,barnaul
+asia,russia,shakhty
+asia,russia,novokuznetsk
+asia,russia,krasnodar
+asia,russia,naberezhnye tchelny
+asia,russia,kirov
+asia,russia,odintsovo
+asia,russia,kostroma
+asia,russia,elets
+asia,russia,korolev (moskovskaya oblast)
+asia,russia,nizhnevartovsk
+asia,russia,tula
+asia,russia,novosibirsk
+asia,russia,ussuriisk
+asia,russia,yuzhno-sakhalinsk
+asia,russia,surgut
+asia,russia,syktivkar
+asia,russia,cherepovets
+asia,russia,dzerzhinsk (nizhegorodskaya oblast)
+asia,russia,vladimir
+asia,russia,armavir
+asia,russia,nazran
+asia,russia,ufa
+asia,russia,derbent
+asia,russia,tyumen
+asia,russia,arkhangelsk
+asia,russia,zhukovsky
+asia,russia,volgodonsk
+asia,russia,perm
+asia,russia,cherkessk
+asia,russia,blagoveshchensk (amurskaya oblast)
+asia,russia,yoshkar-ola
+asia,russia,pushkino
+asia,russia,dimitrovgrad
+asia,russia,sergiev posad
+asia,russia,achinsk
+asia,russia,sochi
+asia,russia,pervouralsk
+asia,russia,komsomolsk-na-amure
+asia,russia,tomsk
+asia,russia,tobolsk
+asia,russia,syzran
+asia,russia,almetievsk
+asia,russia,noginsk
+asia,russia,taganrog
+asia,russia,prokopyevsk
+asia,russia,solikamsk
+asia,russia,bratsk
+asia,russia,nizhnekamsk
+asia,russia,magnitogorsk
+asia,russia,nizhny novgorod
+asia,russia,zelenodolsk
+asia,russia,st. petersburg
+asia,russia,ulan-ude
+asia,russia,velikie luky
+asia,russia,penza
+asia,russia,rubtsovsk
+asia,russia,bataisk
+asia,russia,irkutsk
+asia,russia,obninsk
+asia,russia,petropavlovsk-kamchatsky
+asia,russia,engels
+asia,russia,leninsk-kuznetsky
+asia,russia,lyubertsy
+asia,russia,mytishchi
+asia,russia,saratov
+asia,russia,khimki
+asia,russia,seversk
+asia,russia,abakan
+asia,russia,kaspiysk
+asia,russia,kovrov
+asia,russia,sterlitamak
+asia,russia,yakutsk
+asia,russia,arzamas
+asia,russia,volgograd
+asia,russia,murom
+asia,russia,velikiy novgorod
+asia,russia,elektrostal
+asia,saudi arabia,al-qurrayyat
+asia,saudi arabia,makkah
+asia,saudi arabia,al-jubayl
+asia,saudi arabia,jiddah
+asia,saudi arabia,khamis mushayt
+asia,saudi arabia,riyadh
+asia,saudi arabia,ad-dammam
+asia,saudi arabia,ar'ar
+asia,saudi arabia,ath-thuqbah
+asia,saudi arabia,al-khubar
+asia,saudi arabia,sekaka
+asia,saudi arabia,abha
+asia,saudi arabia,najran (aba as-suud)
+asia,saudi arabia,yanbu al-bahr
+asia,saudi arabia,al-mubarraz
+asia,saudi arabia,tabuk
+asia,saudi arabia,al-kharj
+asia,saudi arabia,al-hawiyah
+asia,saudi arabia,unayzah
+asia,saudi arabia,at-ta'if
+asia,saudi arabia,hafar al-batin
+asia,saudi arabia,al-hufuf
+asia,saudi arabia,al-madinah
+asia,saudi arabia,ha'il
+asia,saudi arabia,buraydah
+asia,saudi arabia,jizan
+asia,singapore,singapore
+asia,sri lanka,sri jayawardanapura kotte
+asia,sri lanka,moratuwa
+asia,sri lanka,dehiwala-mount lavinia
+asia,sri lanka,colombo
+asia,sri lanka,negombo
+asia,sri lanka,kandy
+asia,tajikistan,dushanbe
+asia,tajikistan,khujand
+asia,thailand,chanthaburi
+asia,thailand,uthai thani
+asia,thailand,nong bua lam phu
+asia,thailand,surat thani
+asia,thailand,loei
+asia,thailand,pattani
+asia,thailand,samut prakan
+asia,thailand,sa kaeo
+asia,thailand,surin
+asia,thailand,nakhon phanom
+asia,thailand,phitsanulok
+asia,thailand,prachin buri
+asia,thailand,khon kaen
+asia,thailand,ratchaburi
+asia,thailand,mukdahan
+asia,thailand,lampang
+asia,thailand,chaiyaphum
+asia,thailand,si sa ket
+asia,thailand,chiang rai
+asia,thailand,kamphaeng phet
+asia,thailand,kalasin
+asia,thailand,nan
+asia,thailand,roi et
+asia,thailand,bangkok
+asia,thailand,prachuap khiri khan
+asia,thailand,buri ram
+asia,thailand,phichit
+asia,thailand,ranong
+asia,thailand,pathum thani
+asia,thailand,songkhla
+asia,thailand,yala
+asia,thailand,chumphon
+asia,thailand,saraburi
+asia,thailand,ang thong
+asia,thailand,kanchanaburi
+asia,thailand,sakon sakhon
+asia,thailand,phuket
+asia,thailand,satun
+asia,thailand,nonthaburi
+asia,thailand,phetchaburi
+asia,thailand,nakhon pathom
+asia,thailand,phangnga
+asia,thailand,sakon nakhon
+asia,thailand,phayao
+asia,thailand,sukhothai
+asia,thailand,samut songkhram
+asia,thailand,sing buri
+asia,thailand,yasothon
+asia,thailand,amnat charoen
+asia,thailand,nakhon ratchasima
+asia,thailand,samut sakhon
+asia,thailand,lamphun
+asia,thailand,narathiwat
+asia,thailand,nakhon nayok
+asia,thailand,nong khai
+asia,thailand,maha sarakham
+asia,thailand,trat
+asia,thailand,phrae
+asia,thailand,nakhon si thammarat
+asia,thailand,suphan buri
+asia,thailand,tak
+asia,thailand,uttaradit
+asia,thailand,lop buri
+asia,thailand,chiang mai
+asia,thailand,ubon ratchathani
+asia,thailand,phatthalung
+asia,thailand,phetchabun
+asia,thailand,krabi
+asia,thailand,rayong
+asia,thailand,mae hong son
+asia,thailand,chon buri
+asia,thailand,nakhon sawan
+asia,thailand,chai nat
+asia,thailand,trang
+asia,thailand,phra nakhon si ayutthaya
+asia,thailand,chachoengsao
+asia,thailand,udon thani
+asia,turkey,bursa
+asia,turkey,isparta
+asia,turkey,siverek
+asia,turkey,aydin
+asia,turkey,elazig
+asia,turkey,kirsehir
+asia,turkey,bandirma
+asia,turkey,karaman
+asia,turkey,ankara
+asia,turkey,a‡orum
+asia,turkey,eregli
+asia,turkey,adana
+asia,turkey,a‡anakkale
+asia,turkey,edirne
+asia,turkey,karabak
+asia,turkey,kirikkale
+asia,turkey,rize
+asia,turkey,diyarbakir
+asia,turkey,kiziltepe
+asia,turkey,istanbul
+asia,turkey,a‡orlu
+asia,turkey,kocaeli
+asia,turkey,izmir
+asia,turkey,siirt
+asia,turkey,usak
+asia,turkey,akhisar
+asia,turkey,afyonkarahisar
+asia,turkey,konya
+asia,turkey,alanya (antalya)
+asia,turkey,katahya
+asia,turkey,van
+asia,turkey,giresun
+asia,turkey,kahramanmaras
+asia,turkey,osmaniye
+asia,turkey,tekirdag
+asia,turkey,sakarya
+asia,turkey,antalya
+asia,turkey,inegal
+asia,turkey,batman
+asia,turkey,denizli
+asia,turkey,nazilli
+asia,turkey,trabzon
+asia,turkey,tarsus
+asia,turkey,laleburgaz
+asia,turkey,aksaray
+asia,turkey,ordu
+asia,turkey,zonguldak
+asia,turkey,nigde
+asia,turkey,balikesir
+asia,turkey,manisa
+asia,turkey,samsun
+asia,turkey,dazce
+asia,turkey,adiyaman
+asia,turkey,sanliurfa
+asia,turkey,tokat
+asia,turkey,erzurum
+asia,turkey,mersin
+asia,turkey,gaziantep
+asia,turkey,turgutlu ( manisa)
+asia,turkey,polatli
+asia,turkey,malatya
+asia,turkey,agri
+asia,turkey,hatay
+asia,turkey,eskisehir
+asia,turkey,kayseri
+asia,turkey,cizre
+asia,turkey,ceyhan
+asia,turkey,yalova
+asia,turkey,sivas
+asia,turkey,bolu
+asia,turkey,iskenderun
+asia,uzbekistan,karshi
+asia,uzbekistan,tashkent
+asia,uzbekistan,banjzak
+asia,uzbekistan,andizhan
+asia,uzbekistan,chirchik
+asia,uzbekistan,navoi
+asia,uzbekistan,bukhara
+asia,uzbekistan,termez
+asia,uzbekistan,kokand
+asia,uzbekistan,margilan
+asia,uzbekistan,nukus
+asia,uzbekistan,almalyk
+asia,uzbekistan,namangan
+asia,uzbekistan,angren
+asia,uzbekistan,urgentch
+asia,uzbekistan,samarkand
+asia,uzbekistan,fergana
+europe,albania,tirana
+europe,albania,durra«s
+europe,andorra,andorra la vella
+europe,armenia,vanadzoz (kirovakan)
+europe,armenia,yerevan
+europe,armenia,gyumri (leninakan)
+europe,austria,klagenfurt
+europe,austria,graz
+europe,austria,bregenz
+europe,austria,sankt palten
+europe,austria,innsbruck
+europe,austria,eisenstadt
+europe,austria,wien
+europe,austria,salzburg
+europe,austria,linz
+europe,azerbaijan,sumgayit
+europe,azerbaijan,ganja
+europe,azerbaijan,baku
+europe,belarus,pinsk
+europe,belarus,mozir
+europe,belarus,borisov
+europe,belarus,orsha
+europe,belarus,baranovichi
+europe,belarus,minsk
+europe,belarus,novopolotsk
+europe,belarus,gomel
+europe,belarus,vitebsk
+europe,belarus,bobruisk
+europe,belarus,brest
+europe,belarus,grodno
+europe,belarus,lida
+europe,belarus,soligorsk
+europe,belarus,mogilev
+europe,belgium,antwerpen (anvers)
+europe,belgium,anderlecht
+europe,belgium,gent (gand)
+europe,belgium,brugge
+europe,belgium,namur
+europe,belgium,charleroi
+europe,belgium,schaerbeek
+europe,belgium,liage (luik)
+europe,belgium,bruxelles (brussel)
+europe,bosnia and herzegovina,mostar
+europe,bosnia and herzegovina,doboj
+europe,bosnia and herzegovina,prijedor
+europe,bosnia and herzegovina,tuzla
+europe,bosnia and herzegovina,sarajevo
+europe,bosnia and herzegovina,zenica
+europe,bosnia and herzegovina,banja luka
+europe,bulgaria,pleven
+europe,bulgaria,sofia
+europe,bulgaria,ruse
+europe,bulgaria,varna
+europe,bulgaria,burgas
+europe,bulgaria,stara zagora
+europe,bulgaria,plovdiv
+europe,croatia,rijeka
+europe,croatia,zagreb
+europe,croatia,split
+europe,croatia,osijek
+europe,denmark,vejle
+europe,denmark,kobenhavn
+europe,denmark,esbjerg
+europe,denmark,odense
+europe,denmark,frederiksberg
+europe,denmark,a…lborg
+europe,denmark,a…rhus
+europe,estonia,tallinn
+europe,estonia,tartu
+europe,finland,helsinki
+europe,finland,jyvaskyla
+europe,finland,turku
+europe,finland,oulu
+europe,finland,lahti
+europe,finland,espoo
+europe,finland,vantaa
+europe,finland,tampere
+europe,finland,kuopio
+europe,france,saint-a‰tienne
+europe,france,caen
+europe,france,montreuil
+europe,france,argenteuil
+europe,france,nancy
+europe,france,tours
+europe,france,toulon
+europe,france,toulouse
+europe,france,perpignan
+europe,france,grenoble
+europe,france,na®mes
+europe,france,villeurbanne
+europe,france,brest
+europe,france,strasbourg
+europe,france,reims
+europe,france,marseille
+europe,france,amiens
+europe,france,angers
+europe,france,paris
+europe,france,dijon
+europe,france,bordeaux
+europe,france,aix-en-provence
+europe,france,nantes
+europe,france,metz
+europe,france,clermont-ferrand
+europe,france,boulogne-billancourt
+europe,france,limoges
+europe,france,montpellier
+europe,france,rennes
+europe,france,nice
+europe,france,besana§on
+europe,france,le mans
+europe,france,rouen
+europe,france,lille
+europe,france,mulhouse
+europe,france,saint-denis
+europe,france,saint-denis (la raunion)
+europe,france,orlaans
+europe,france,le havre
+europe,france,lyon
+europe,georgia,tbilisi
+europe,georgia,rustavi
+europe,georgia,batumi
+europe,georgia,kutaisi
+europe,germany,bergisch gladbach
+europe,germany,berlin
+europe,germany,manster (westf.)
+europe,germany,regensburg
+europe,germany,ulm
+europe,germany,kiel
+europe,germany,braunschweig
+europe,germany,hamburg
+europe,germany,remscheid
+europe,germany,essen
+europe,germany,mannheim
+europe,germany,warzburg
+europe,germany,offenbach am main
+europe,germany,neuss
+europe,germany,labeck
+europe,germany,paderborn
+europe,germany,karlsruhe
+europe,germany,dortmund
+europe,germany,mainz
+europe,germany,manchengladbach
+europe,germany,herne
+europe,germany,dasseldorf
+europe,germany,ludwigshafen am rhein
+europe,germany,leverkusen
+europe,germany,narnberg
+europe,germany,hildesheim
+europe,germany,hamm
+europe,germany,duisburg
+europe,germany,bremerhaven
+europe,germany,kassel
+europe,germany,oberhausen
+europe,germany,manchen
+europe,germany,wolfsburg
+europe,germany,witten
+europe,germany,bonn
+europe,germany,osnabrack
+europe,germany,krefeld
+europe,germany,oldenburg
+europe,germany,moers
+europe,germany,koblenz
+europe,germany,darmstadt
+europe,germany,salzgitter
+europe,germany,bremen
+europe,germany,heilbronn
+europe,germany,magdeburg
+europe,germany,malheim an der ruhr
+europe,germany,halle
+europe,germany,farth
+europe,germany,erlangen
+europe,germany,schwerin
+europe,germany,cottbus
+europe,germany,gattingen
+europe,germany,gelsenkirchen
+europe,germany,bochum
+europe,germany,wiesbaden
+europe,germany,wuppertal
+europe,germany,aachen
+europe,germany,kaln
+europe,germany,stuttgart
+europe,germany,ingolstadt
+europe,germany,erfurt
+europe,germany,trier
+europe,germany,hannover
+europe,germany,heidelberg
+europe,germany,dresden
+europe,germany,augsburg
+europe,germany,solingen
+europe,germany,potsdam
+europe,germany,frankfurt am main
+europe,germany,gera
+europe,germany,jena
+europe,germany,pforzheim
+europe,germany,rostock
+europe,germany,saarbracken
+europe,germany,hagen
+europe,germany,leipzig
+europe,germany,bielefeld
+europe,germany,freiburg im breisgau
+europe,germany,recklinghausen
+europe,germany,chemnitz
+europe,germany,siegen
+europe,germany,zwickau
+europe,germany,bottrop
+europe,germany,reutlingen
+europe,germany,kaiserslautern
+europe,greece,calithaa
+europe,greece,pireas
+europe,greece,thessaloniki
+europe,greece,iraclion
+europe,greece,pasterion
+europe,greece,patrai
+europe,greece,larissa
+europe,greece,athinai
+europe,hungary,gyar
+europe,hungary,pacs
+europe,hungary,szeged
+europe,hungary,miskolc
+europe,hungary,kecskemat
+europe,hungary,nyiregyhaza
+europe,hungary,debrecen
+europe,hungary,budapest
+europe,hungary,szakesfeharvar
+europe,iceland,reykjavik
+europe,ireland,cork
+europe,ireland,dublin
+europe,italy,messina
+europe,italy,bolzano
+europe,italy,rimini
+europe,italy,venezia
+europe,italy,trento
+europe,italy,verona
+europe,italy,parma
+europe,italy,salerno
+europe,italy,livorno
+europe,italy,reggio nell'emilia
+europe,italy,bergamo
+europe,italy,roma
+europe,italy,vicenza
+europe,italy,trieste
+europe,italy,padova
+europe,italy,modena
+europe,italy,torino
+europe,italy,firenze
+europe,italy,novara
+europe,italy,palermo
+europe,italy,napoli
+europe,italy,bari
+europe,italy,monza
+europe,italy,reggio di calabria
+europe,italy,ancona
+europe,italy,ferrara
+europe,italy,giugliano in campania
+europe,italy,brescia
+europe,italy,catania
+europe,italy,latina
+europe,italy,forli
+europe,italy,milano
+europe,italy,taranto
+europe,italy,siracusa
+europe,italy,sassari
+europe,italy,foggia
+europe,italy,cagliari
+europe,italy,bologna
+europe,italy,perugia
+europe,italy,prato
+europe,italy,ravenna
+europe,italy,pescara
+europe,italy,genova
+europe,italy,terni
+europe,italy,piacenza
+europe,latvia,daugavpils
+europe,latvia,riga
+europe,liechtenstein,vaduz
+europe,lithuania,klaipeda
+europe,lithuania,vilnius
+europe,lithuania,shauliai
+europe,lithuania,panevezhis
+europe,lithuania,kaunas
+europe,luxembourg,luxembourg-ville
+europe,malta,valletta
+europe,montenegro,podgorica
+europe,netherlands,zwolle
+europe,netherlands,arnhem
+europe,netherlands,dordrecht
+europe,netherlands,rotterdam
+europe,netherlands,geleen-sittard
+europe,netherlands,amsterdam
+europe,netherlands,ede
+europe,netherlands,nijmegen
+europe,netherlands,s-hertogenbosch
+europe,netherlands,s-gravenhage
+europe,netherlands,heerlen-kerkrade
+europe,netherlands,the hague
+europe,netherlands,haarlem
+europe,netherlands,emmen
+europe,netherlands,amersfoort
+europe,netherlands,leiden
+europe,netherlands,apeldoorn
+europe,netherlands,breda
+europe,netherlands,zaanstad
+europe,netherlands,haarlemmermeer
+europe,netherlands,tilburg
+europe,netherlands,enschede
+europe,netherlands,utrecht
+europe,netherlands,eindhoven
+europe,netherlands,groningen
+europe,netherlands,maastricht
+europe,netherlands,zoetermeer
+europe,netherlands,almere
+europe,norway,oslo
+europe,norway,trondheim
+europe,norway,bergen
+europe,norway,stavanger
+europe,poland,slupsk
+europe,poland,kalisz
+europe,poland,bydgoszcz
+europe,poland,warszawa
+europe,poland,bialystok
+europe,poland,opole
+europe,poland,katowice
+europe,poland,sosnowiec
+europe,poland,wroclaw
+europe,poland,chorzaw
+europe,poland,rzeszaw
+europe,poland,walbrzych
+europe,poland,torun
+europe,poland,rybnik
+europe,poland,bytom
+europe,poland,gliwice
+europe,poland,gdynia
+europe,poland,legnica
+europe,poland,lublin
+europe,poland,plock
+europe,poland,wloclawek
+europe,poland,olsztyn
+europe,poland,tarnaw
+europe,poland,ladz
+europe,poland,dabrowa garnicza
+europe,poland,koszalin
+europe,poland,zabrze
+europe,poland,gorzaw wielkopolski
+europe,poland,poznan
+europe,poland,gdansk
+europe,poland,radom
+europe,poland,tychy
+europe,poland,zielona gara
+europe,poland,szczecin
+europe,poland,ruda slaska
+europe,poland,bielsko-biala
+europe,poland,czestochowa
+europe,poland,kielce
+europe,poland,grudziadz
+europe,poland,jastrzebie-zdraj
+europe,poland,krakaw
+europe,poland,elblag
+europe,portugal,porto
+europe,portugal,amadora
+europe,portugal,coimbra
+europe,portugal,funchal
+europe,portugal,vila nova de gaia
+europe,portugal,braga
+europe,portugal,setubal
+europe,portugal,lisboa
+europe,romania,bucuresti
+europe,romania,tirgu-mures
+europe,romania,oradea
+europe,romania,piatra neamt
+europe,romania,cluj-napoca
+europe,romania,arad
+europe,romania,baia mare
+europe,romania,craiova
+europe,romania,botosani
+europe,romania,rimnicu vilcea
+europe,romania,sibiu
+europe,romania,brasov
+europe,romania,pitesti
+europe,romania,braila
+europe,romania,satu-mare
+europe,romania,focsani
+europe,romania,bacau
+europe,romania,buzau
+europe,romania,galati
+europe,romania,ploiesti
+europe,romania,drobeta turnu-severin
+europe,romania,constanta
+europe,romania,timisoara
+europe,romania,iasi
+europe,romania,suceava
+europe,san marino,san marino
+europe,serbia,smederevo
+europe,serbia,kragujevac
+europe,serbia,leskovac
+europe,serbia,cacak
+europe,serbia,pancevo
+europe,serbia,subotica
+europe,serbia,novi sad
+europe,serbia,kraljevo
+europe,serbia,niå
+europe,serbia,å abac
+europe,serbia,beograd (belgrade)
+europe,serbia,kruåevac
+europe,serbia,zrenjanin
+europe,slovakia,kosice
+europe,slovakia,bratislava
+europe,slovenia,maribor
+europe,slovenia,ljubljana
+europe,spain,huelva
+europe,spain,sevilla
+europe,spain,almera a
+europe,spain,badajoz
+europe,spain,cadiz
+europe,spain,gijan
+europe,spain,santa cruz de tenerife
+europe,spain,alcala de henares
+europe,spain,alicante
+europe,spain,matara
+europe,spain,palma
+europe,spain,lean
+europe,spain,logroa±o
+europe,spain,donostia - san sebastian
+europe,spain,murcia
+europe,spain,burgos
+europe,spain,marbella
+europe,spain,fuenlabrada
+europe,spain,santa coloma de gramanet
+europe,spain,vigo
+europe,spain,hospitalet de llobregat
+europe,spain,barcelona
+europe,spain,elche
+europe,spain,reus
+europe,spain,getafe
+europe,spain,sabadell
+europe,spain,oviedo
+europe,spain,zaragoza
+europe,spain,badalona
+europe,spain,valencia
+europe,spain,ourense
+europe,spain,valladolid
+europe,spain,santander
+europe,spain,leganas
+europe,spain,albacete
+europe,spain,torrevieja
+europe,spain,palmas de gran canaria
+europe,spain,terrassa
+europe,spain,cartagena
+europe,spain,alcobendas
+europe,spain,jaan
+europe,spain,telde
+europe,spain,salamanca
+europe,spain,mastoles
+europe,spain,torrejan de ardoz
+europe,spain,jarez de la frontera
+europe,spain,bilbao
+europe,spain,tarragona
+europe,spain,parla
+europe,spain,baracaldo
+europe,spain,dos hermanas
+europe,spain,las palmas de gran canaria
+europe,spain,san cristabal de la laguna
+europe,spain,malaga
+europe,spain,algeciras
+europe,spain,granada
+europe,spain,cardoba
+europe,spain,palma de mallorca
+europe,spain,a corua±a
+europe,spain,alcorcan
+europe,spain,pamplona
+europe,spain,vitoria-gasteiz
+europe,spain,la corua±a
+europe,spain,madrid
+europe,spain,castellan de la plana
+europe,spain,lleida
+europe,sweden,helsingborg
+europe,sweden,orebro
+europe,sweden,stockholm
+europe,sweden,malma
+europe,sweden,uppsala
+europe,sweden,va¤steras
+europe,sweden,linkaping
+europe,sweden,jankaping
+europe,sweden,norrkaping
+europe,sweden,umea
+europe,sweden,gateborg
+europe,switzerland,olten-zofingen
+europe,switzerland,lausanne
+europe,switzerland,baden-brugg
+europe,switzerland,winterthur
+europe,switzerland,genave
+europe,switzerland,berne
+europe,switzerland,fribourg
+europe,switzerland,st. gallen
+europe,switzerland,zarich
+europe,switzerland,luzern
+europe,switzerland,lugano
+europe,switzerland,zug
+europe,switzerland,ba le
+europe,ukraine,chernigov
+europe,ukraine,kamyanetsk podilsky
+europe,ukraine,ivano-frankovsk
+europe,ukraine,lvov
+europe,ukraine,nikopol
+europe,ukraine,chernovtsy
+europe,ukraine,mykolaiv (nikolaevskaya oblast)
+europe,ukraine,gorlovka
+europe,ukraine,kertch
+europe,ukraine,kherson
+europe,ukraine,rivne
+europe,ukraine,khmelnitsky (hmilnyk)
+europe,ukraine,pavlograd
+europe,ukraine,kryvy rig
+europe,ukraine,donetsk (donestskaya oblast)
+europe,ukraine,dnepropetrovsk
+europe,ukraine,krasny lutch
+europe,ukraine,melitopol
+europe,ukraine,uzhgorod
+europe,ukraine,cherkassy
+europe,ukraine,sevastopol
+europe,ukraine,sumy
+europe,ukraine,mariupol
+europe,ukraine,kiev
+europe,ukraine,yevpatoriya
+europe,ukraine,kirovograd
+europe,ukraine,zhitomir
+europe,ukraine,simferopol
+europe,ukraine,stakhanov
+europe,ukraine,zaporozhye
+europe,ukraine,krementchug
+europe,ukraine,dneprodzerzhinsk
+europe,ukraine,berdyansk
+europe,ukraine,vinnutsya
+europe,ukraine,evpatoriya (yevpatoriya)
+europe,ukraine,lutsk
+europe,ukraine,makeyevka
+europe,ukraine,lugansk
+europe,ukraine,slavyansk
+europe,ukraine,enakievo (yenakievo)
+europe,ukraine,belaya tserkov (bila crkva)
+europe,ukraine,kramatorsk
+europe,ukraine,severodonetsk
+europe,ukraine,kharkov
+europe,ukraine,odessa
+europe,ukraine,ternopol
+europe,ukraine,lysychansk
+europe,ukraine,alchevsk
+europe,ukraine,poltava
+europe,united kingdom,aberdeenshire
+europe,united kingdom,oxford
+europe,united kingdom,exeter
+europe,united kingdom,belfast
+europe,united kingdom,torbay
+europe,united kingdom,falkirk
+europe,united kingdom,leicester
+europe,united kingdom,newport
+europe,united kingdom,dundee
+europe,united kingdom,high wycombe
+europe,united kingdom,ipswich
+europe,united kingdom,renfrewshire
+europe,united kingdom,york
+europe,united kingdom,burnley/nelson
+europe,united kingdom,crawley
+europe,united kingdom,warrington
+europe,united kingdom,west midlands
+europe,united kingdom,milton keynes
+europe,united kingdom,angus
+europe,united kingdom,southport/formby
+europe,united kingdom,dearne valley
+europe,united kingdom,norwich
+europe,united kingdom,nuneaton
+europe,united kingdom,fife
+europe,united kingdom,kingston-upon-hull
+europe,united kingdom,aldershot
+europe,united kingdom,dumfries  galloway
+europe,united kingdom,aberdeen
+europe,united kingdom,glasgow
+europe,united kingdom,southampton
+europe,united kingdom,telford
+europe,united kingdom,basildon/north benfleet
+europe,united kingdom,tyneside
+europe,united kingdom,blackpool
+europe,united kingdom,edinburgh
+europe,united kingdom,bournemouth
+europe,united kingdom,birkenhead
+europe,united kingdom,gloucester
+europe,united kingdom,southend
+europe,united kingdom,coventry/bedworth
+europe,united kingdom,plymouth
+europe,united kingdom,preston
+europe,united kingdom,thanet
+europe,united kingdom,bedford/kempston
+europe,united kingdom,northampton
+europe,united kingdom,blackburn/darwen
+europe,united kingdom,south lanarkshire
+europe,united kingdom,the medway towns
+europe,united kingdom,north lanarkshire
+europe,united kingdom,west yorkshire
+europe,united kingdom,bristol
+europe,united kingdom,colchester
+europe,united kingdom,eastbourne
+europe,united kingdom,east dunbartonshire
+europe,united kingdom,scottish borders
+europe,united kingdom,manchester
+europe,united kingdom,portsmouth
+europe,united kingdom,cambridge
+europe,united kingdom,the potteries
+europe,united kingdom,teesside
+europe,united kingdom,slough
+europe,united kingdom,wigan
+europe,united kingdom,brighton/worthing/littlehampton
+europe,united kingdom,luton/dunstable
+europe,united kingdom,north ayrshire
+europe,united kingdom,cheltenham/charlton kings
+europe,united kingdom,derby
+europe,united kingdom,sunderland
+europe,united kingdom,grimsby/cleethorpes
+europe,united kingdom,st. albans/hatfield
+europe,united kingdom,west lothian
+europe,united kingdom,east ayrshire
+europe,united kingdom,nottingham
+europe,united kingdom,hastings/bexhill
+europe,united kingdom,lincoln
+europe,united kingdom,swindon
+europe,united kingdom,cardiff
+europe,united kingdom,mansfield
+europe,united kingdom,swansea
+europe,united kingdom,liverpool
+europe,united kingdom,perth  kinross
+europe,united kingdom,south ayrshire
+europe,united kingdom,chesterfield/staveley
+europe,united kingdom,reading/wokingham
+europe,united kingdom,peterborough
+europe,united kingdom,highland
+europe,united kingdom,doncaster
+europe,united kingdom,sheffield
+europe,united kingdom,london
+north america,bahamas,nassau
+north america,canada,greater sudbury / grand sudbury
+north america,canada,halifax
+north america,canada,laval
+north america,canada,st catharines-niagara
+north america,canada,moncton
+north america,canada,brampton
+north america,canada,surrey
+north america,canada,longueuil
+north america,canada,edmonton
+north america,canada,kitchener-cambridge-waterloo
+north america,canada,kelowna
+north america,canada,sherbrooke
+north america,canada,mississauga
+north america,canada,saguenay
+north america,canada,cambridge
+north america,canada,montraal
+north america,canada,thunder bay
+north america,canada,windsor
+north america,canada,cape breton
+north america,canada,regina
+north america,canada,kingston
+north america,canada,chatham-kent
+north america,canada,toronto
+north america,canada,saanich
+north america,canada,vaughan
+north america,canada,oakville
+north america,canada,peterborough
+north america,canada,whitby
+north america,canada,oshawa
+north america,canada,brantford
+north america,canada,st. john's
+north america,canada,richmond
+north america,canada,saint john
+north america,canada,richmond hill
+north america,canada,hamilton
+north america,canada,saskatoon
+north america,canada,winnipeg
+north america,canada,markham
+north america,canada,burlington
+north america,canada,vancouver
+north america,canada,coquitlam
+north america,canada,barrie
+north america,canada,trois-riviares
+north america,canada,victoria
+north america,canada,lavis v
+north america,canada,london
+north america,canada,calgary
+north america,canada,ottawa - gatineau
+north america,canada,quabec
+north america,canada,burnaby
+north america,canada,abbotsford-mission
+north america,canada,guelph
+north america,canada,gatineau
+north america,canada,ottawa
+north america,costa rica,pavas
+north america,costa rica,liman
+north america,costa rica,cartago
+north america,costa rica,goicoechea
+north america,costa rica,desamparados
+north america,costa rica,perez zeledon
+north america,costa rica,alajuelita
+north america,costa rica,san carlos
+north america,costa rica,puntarenas
+north america,costa rica,alajuela
+north america,costa rica,heredia
+north america,costa rica,pococi
+north america,costa rica,la unian
+north america,costa rica,san jose
+north america,cuba,santa clara
+north america,cuba,cienfuegos
+north america,cuba,guantanamo
+north america,cuba,las tunas
+north america,cuba,holgua n
+north america,cuba,camagaey
+north america,cuba,ciego de avila
+north america,cuba,bayamo
+north america,cuba,la habana
+north america,cuba,santiago de cuba
+north america,cuba,pinar del ra o
+north america,cuba,matanzas
+north america,dominican republic,los alcarrizos
+north america,dominican republic,san juan de la maguana
+north america,dominican republic,la romana
+north america,dominican republic,san francisco de macoris
+north america,dominican republic,santo domingo east
+north america,dominican republic,santo domingo
+north america,dominican republic,santo domingo north
+north america,dominican republic,bajos de haina
+north america,dominican republic,san pedro de macoris
+north america,dominican republic,bonao
+north america,dominican republic,san cristabal
+north america,dominican republic,santiago de los caballeros
+north america,dominican republic,santo domingo west
+north america,dominican republic,boca chica
+north america,dominican republic,puerto plata
+north america,dominican republic,moca
+north america,dominican republic,higaey
+north america,dominican republic,la vega
+north america,dominican republic,bana 
+north america,dominican republic,azua
+north america,el salvador,san miguel
+north america,el salvador,ahuachapan
+north america,el salvador,santa ana
+north america,el salvador,sonsonate
+north america,el salvador,mejicanos
+north america,el salvador,cuscatancingo
+north america,el salvador,soyapango
+north america,el salvador,apopa
+north america,el salvador,san martin
+north america,el salvador,san salvador
+north america,el salvador,ciudad delgado
+north america,el salvador,ilopango
+north america,el salvador,santa tecla
+north america,guatemala,cuidad de guatemala
+north america,guatemala,villa nueva
+north america,guatemala,mixco
+north america,guatemala,quetzaltenango
+north america,guatemala,escuintla
+north america,honduras,tegucigalpa
+north america,honduras,choloma
+north america,honduras,la ceiba
+north america,honduras,san pedro sula
+north america,jamaica,kingston
+north america,jamaica,montego bay
+north america,jamaica,spanish town
+north america,jamaica,portmore
+north america,mexico,tapachula (de cordova y ordoa±ez)
+north america,mexico,torrean
+north america,mexico,durango (victoria de durango)
+north america,mexico,guanajuato
+north america,mexico,ciudad madero
+north america,mexico,zacatecas
+north america,mexico,chetumal
+north america,mexico,chalco de diaz covarrubias
+north america,mexico,tampico
+north america,mexico,oaxaca de juarez
+north america,mexico,san luis rio colorado
+north america,mexico,ciudad acua±a
+north america,mexico,ciudad de villa de alvarez
+north america,mexico,acayucan
+north america,mexico,reynosa
+north america,mexico,san francisco del rincan
+north america,mexico,san francisco coacalco
+north america,mexico,tuxtla gutiarrez
+north america,mexico,querataro
+north america,mexico,guadalajara
+north america,mexico,heroica guaymas
+north america,mexico,tijuana
+north america,mexico,puebla de zaragoza
+north america,mexico,zapopan
+north america,mexico,acapulco (de juarez)
+north america,mexico,tonala
+north america,mexico,san cristobal de las casas
+north america,mexico,nuevo laredo
+north america,mexico,tehuacan
+north america,mexico,cuautla
+north america,mexico,naucalpan de juarez
+north america,mexico,celaya
+north america,mexico,chimalhuacan
+north america,mexico,ensenada
+north america,mexico,mexico
+north america,mexico,los mochis
+north america,mexico,ciudad lapez mateos
+north america,mexico,apizaco
+north america,mexico,ciudad del carmen
+north america,mexico,tulancingo
+north america,mexico,tepic
+north america,mexico,aguascalientes
+north america,mexico,san pedro garza garcia
+north america,mexico,playa del carmen
+north america,mexico,pachuca (de soto)
+north america,mexico,san marta n texmelucan
+north america,mexico,lazaro cardenas
+north america,mexico,zamora de hidalgo
+north america,mexico,san juan bautista tuxtepec
+north america,mexico,ciudad general escobedo
+north america,mexico,jiutepec
+north america,mexico,poza rica de hidalgo
+north america,mexico,uruapan
+north america,mexico,lean (de los aldama)
+north america,mexico,heroica nogales
+north america,mexico,tlaquepaque
+north america,mexico,navojoa
+north america,mexico,ixtapaluca
+north america,mexico,monclova
+north america,mexico,cardoba
+north america,mexico,villahermosa
+north america,mexico,delicias
+north america,mexico,ciudad obregan
+north america,mexico,guadalupe
+north america,mexico,ecatepec (de morelos)
+north america,mexico,coatzacoalcos
+north america,mexico,la paz
+north america,mexico,irapuato
+north america,mexico,xalapa-enriquez
+north america,mexico,morolean - uriangato
+north america,mexico,chicoloapan de juarez
+north america,mexico,orizaba
+north america,mexico,la piedad
+north america,mexico,minatitlan
+north america,mexico,ciudad victoria
+north america,mexico,monterrey
+north america,mexico,marida
+north america,mexico,tlaxcala
+north america,mexico,fresnillo
+north america,mexico,cancun
+north america,mexico,villa nicolas romero
+north america,mexico,tula
+north america,mexico,ciudad valles
+north america,mexico,puerto vallarta
+north america,mexico,matamoros
+north america,mexico,soledad de graciano sanchez
+north america,mexico,mazatlan
+north america,mexico,san luis potosa 
+north america,mexico,hidalgo del parral
+north america,mexico,chihuahua
+north america,mexico,piedras negras
+north america,mexico,ocotlan
+north america,mexico,netzahualcayotl
+north america,mexico,san nicolas de los garza
+north america,mexico,campeche
+north america,mexico,juarez
+north america,mexico,xico
+north america,mexico,mexicali
+north america,mexico,tlalnepantla
+north america,mexico,cuernavaca
+north america,mexico,manzanillo
+north america,mexico,cuauhtemoc
+north america,mexico,ciudad apodaca
+north america,mexico,toluca (de lerdo)
+north america,mexico,cuautitlan izcalli
+north america,mexico,ciudad santa catarina
+north america,mexico,salamanca
+north america,mexico,chilpacingo (de los bravo)
+north america,mexico,rioverde - ciudad fernandez
+north america,mexico,san juan del ra o
+north america,mexico,morelia
+north america,mexico,hermosillo
+north america,mexico,ciudad juarez
+north america,mexico,veracruz
+north america,mexico,iguala (de la independencia)
+north america,mexico,culiacan rosales
+north america,mexico,colimas
+north america,mexico,tecoman
+north america,mexico,gamez palacio
+north america,mexico,saltillo
+north america,mexico,tuxpan
+north america,nicaragua,lean
+north america,nicaragua,managua
+north america,saint lucia,castries
+north america,trinidad and tobago,port-of-spain
+north america,united states of america,kansas city (ks)
+north america,united states of america,santa clarita (ca)
+north america,united states of america,livonia (mi)
+north america,united states of america,miramar (fl)
+north america,united states of america,houston (tx)
+north america,united states of america,waco (tx)
+north america,united states of america,laredo (tx)
+north america,united states of america,inglewood (ca)
+north america,united states of america,new orleans (la)
+north america,united states of america,pueblo (co)
+north america,united states of america,cambridge (ma)
+north america,united states of america,coral springs (fl)
+north america,united states of america,hampton (va)
+north america,united states of america,cedar rapids (ia)
+north america,united states of america,grand rapids (mi)
+north america,united states of america,st. paul (mn)
+north america,united states of america,erie (pa)
+north america,united states of america,west valley city (ut)
+north america,united states of america,baton rouge (la)
+north america,united states of america,albuquerque (nm)
+north america,united states of america,west covina (ca)
+north america,united states of america,clarksville (tn)
+north america,united states of america,miami gardens (fl)
+north america,united states of america,burbank (ca)
+north america,united states of america,dallas (tx)
+north america,united states of america,scottsdale (az)
+north america,united states of america,bakersfield (ca)
+north america,united states of america,norfolk (va)
+north america,united states of america,rancho cucamonga (ca)
+north america,united states of america,fairfield (ca)
+north america,united states of america,salinas (ca)
+north america,united states of america,olathe (ks)
+north america,united states of america,hialeah (fl)
+north america,united states of america,port st. lucie (fl)
+north america,united states of america,brandon (fl)
+north america,united states of america,berkeley (ca)
+north america,united states of america,san francisco (ca)
+north america,united states of america,arlington (va)
+north america,united states of america,springfield (il)
+north america,united states of america,pasadena (tx)
+north america,united states of america,indianapolis (in)
+north america,united states of america,san antonio (tx)
+north america,united states of america,gainesville (fl)
+north america,united states of america,columbus (ga)
+north america,united states of america,seattle (wa)
+north america,united states of america,irving (tx)
+north america,united states of america,cincinnati (oh)
+north america,united states of america,sunnyvale (ca)
+north america,united states of america,tallahassee (fl)
+north america,united states of america,tucson (az)
+north america,united states of america,elk grove (ca)
+north america,united states of america,chattanooga (tn)
+north america,united states of america,warren (mi)
+north america,united states of america,washington (dc)
+north america,united states of america,gresham (or)
+north america,united states of america,paradise (nv)
+north america,united states of america,fargo (nd)
+north america,united states of america,lancaster (ca)
+north america,united states of america,spring valley (nv)
+north america,united states of america,jackson (ms)
+north america,united states of america,nashville-davidson (tn)
+north america,united states of america,everett (wa)
+north america,united states of america,knoxville (tn)
+north america,united states of america,columbia (sc)
+north america,united states of america,beaumont (tx)
+north america,united states of america,denton (tx)
+north america,united states of america,louisville (ky)
+north america,united states of america,fullerton (ca)
+north america,united states of america,fort lauderdale (fl)
+north america,united states of america,san buenaventura (ca)
+north america,united states of america,east los angeles (ca)
+north america,united states of america,henderson (nv)
+north america,united states of america,miami (fl)
+north america,united states of america,lowell (ma)
+north america,united states of america,daly city (ca)
+north america,united states of america,escondido (ca)
+north america,united states of america,lakewood (co)
+north america,united states of america,chesapeake (va)
+north america,united states of america,charlotte (nc)
+north america,united states of america,grand prairie (tx)
+north america,united states of america,richmond (va)
+north america,united states of america,fayetteville (nc)
+north america,united states of america,hollywood (fl)
+north america,united states of america,moreno valley (ca)
+north america,united states of america,roseville (ca)
+north america,united states of america,arlington (tx)
+north america,united states of america,columbia (mo)
+north america,united states of america,palm bay city (fl)
+north america,united states of america,st. louis (mo)
+north america,united states of america,winston-salem (nc)
+north america,united states of america,peoria (az)
+north america,united states of america,spokane (wa)
+north america,united states of america,bellevue (wa)
+north america,united states of america,clearwater (fl)
+north america,united states of america,corona (ca)
+north america,united states of america,modesto (ca)
+north america,united states of america,omaha (ne)
+north america,united states of america,baltimore (md)
+north america,united states of america,buffalo (ny)
+north america,united states of america,fontana (ca)
+north america,united states of america,killeen (tx)
+north america,united states of america,mesquite (tx)
+north america,united states of america,metairie (la)
+north america,united states of america,downey (ca)
+north america,united states of america,richmond (ca)
+north america,united states of america,st. petersburg (fl)
+north america,united states of america,gilbert (az)
+north america,united states of america,rockford (il)
+north america,united states of america,providence (ri)
+north america,united states of america,murfreesboro (tn)
+north america,united states of america,concord (ca)
+north america,united states of america,abilene (tx)
+north america,united states of america,orange (ca)
+north america,united states of america,fort worth (tx)
+north america,united states of america,orlando (fl)
+north america,united states of america,new haven (ct)
+north america,united states of america,alexandria (va)
+north america,united states of america,anaheim (ca)
+north america,united states of america,jersey city (nj)
+north america,united states of america,rochester (ny)
+north america,united states of america,overland park (ks)
+north america,united states of america,allentown (pa)
+north america,united states of america,springfield (ma)
+north america,united states of america,peoria (il)
+north america,united states of america,waterbury (ct)
+north america,united states of america,corpus christi (tx)
+north america,united states of america,virginia beach (va)
+north america,united states of america,huntsville (al)
+north america,united states of america,independence (mo)
+north america,united states of america,minneapolis (mn)
+north america,united states of america,victorville city (ca)
+north america,united states of america,eugene (or)
+north america,united states of america,glendale (az)
+north america,united states of america,provo (ut)
+north america,united states of america,joliet (il)
+north america,united states of america,wilmington (nc)
+north america,united states of america,augusta (ga)
+north america,united states of america,oklahoma city (ok)
+north america,united states of america,simi valley (ca)
+north america,united states of america,stockton (ca)
+north america,united states of america,el paso (tx)
+north america,united states of america,aurora (co)
+north america,united states of america,las vegas (nv)
+north america,united states of america,denver (co)
+north america,united states of america,sacramento (ca)
+north america,united states of america,manchester (nh)
+north america,united states of america,fresno (ca)
+north america,united states of america,chula vista (ca)
+north america,united states of america,savannah (ga)
+north america,united states of america,evansville (in)
+north america,united states of america,huntington beach (ca)
+north america,united states of america,sterling heights (mi)
+north america,united states of america,green bay (wi)
+north america,united states of america,vancouver (wa)
+north america,united states of america,jacksonville (fl)
+north america,united states of america,mobile (al)
+north america,united states of america,santa ana (ca)
+north america,united states of america,akron (oh)
+north america,united states of america,phoenix (az)
+north america,united states of america,bridgeport (ct)
+north america,united states of america,montgomery (al)
+north america,united states of america,raleigh (nc)
+north america,united states of america,garden grove (ca)
+north america,united states of america,sioux falls (sd)
+north america,united states of america,tulsa (ok)
+north america,united states of america,brownsville (tx)
+north america,united states of america,durham (nc)
+north america,united states of america,pittsburgh (pa)
+north america,united states of america,carlsbad (ca)
+north america,united states of america,des moines (ia)
+north america,united states of america,colorado springs (co)
+north america,united states of america,irvine (ca)
+north america,united states of america,kansas city (mo)
+north america,united states of america,midland city (tx)
+north america,united states of america,san diego (ca)
+north america,united states of america,madison (wi)
+north america,united states of america,enterprise (nv)
+north america,united states of america,south bend (in)
+north america,united states of america,tampa (fl)
+north america,united states of america,costa mesa (ca)
+north america,united states of america,vallejo (ca)
+north america,united states of america,wichita (ks)
+north america,united states of america,newport news (va)
+north america,united states of america,amarillo (tx)
+north america,united states of america,palmdale (ca)
+north america,united states of america,dayton (oh)
+north america,united states of america,shreveport (la)
+north america,united states of america,yonkers (ny)
+north america,united states of america,atlanta (ga)
+north america,united states of america,chicago (il)
+north america,united states of america,oxnard (ca)
+north america,united states of america,boise city (id)
+north america,united states of america,billings (mt)
+north america,united states of america,temecula (ca)
+north america,united states of america,thornton (co)
+north america,united states of america,lafayette (la)
+north america,united states of america,boston (ma)
+north america,united states of america,el monte (ca)
+north america,united states of america,glendale (ca)
+north america,united states of america,columbus (oh)
+north america,united states of america,garland (tx)
+north america,united states of america,west jordan (ut)
+north america,united states of america,wichita falls (tx)
+north america,united states of america,greensboro (nc)
+north america,united states of america,hayward (ca)
+north america,united states of america,long beach (ca)
+north america,united states of america,chandler (az)
+north america,united states of america,mcallen (tx)
+north america,united states of america,cary (nc)
+north america,united states of america,elizabeth (nj)
+north america,united states of america,murrieta (ca)
+north america,united states of america,worcester (ma)
+north america,united states of america,oakland (ca)
+north america,united states of america,lubbock (tx)
+north america,united states of america,mckinney city (tx)
+north america,united states of america,toledo (oh)
+north america,united states of america,birmingham (al)
+north america,united states of america,stamford (ct)
+north america,united states of america,frisco (tx)
+north america,united states of america,north las vegas (nv)
+north america,united states of america,sunrise manor (nv)
+north america,united states of america,reno (nv)
+north america,united states of america,gary (in)
+north america,united states of america,norwalk (ca)
+north america,united states of america,pembroke pines (fl)
+north america,united states of america,philadelphia (pa)
+north america,united states of america,rochester (mn)
+north america,united states of america,lansing (mi)
+north america,united states of america,tacoma (wa)
+north america,united states of america,little rock (ar)
+north america,united states of america,springfield (mo)
+north america,united states of america,topeka (ks)
+north america,united states of america,salem (or)
+north america,united states of america,oceanside (ca)
+north america,united states of america,thousand oaks (ca)
+north america,united states of america,fort wayne (in)
+north america,united states of america,austin (tx)
+north america,united states of america,salt lake city (ut)
+north america,united states of america,paterson (nj)
+north america,united states of america,portland (or)
+north america,united states of america,athens (ga)
+north america,united states of america,pomona (ca)
+north america,united states of america,new york (ny)
+north america,united states of america,elgin (il)
+north america,united states of america,milwaukee (wi)
+north america,united states of america,hartford (ct)
+north america,united states of america,lexington-fayette (ky)
+north america,united states of america,los angeles (ca)
+north america,united states of america,ann arbor (mi)
+north america,united states of america,fremont (ca)
+north america,united states of america,san bernardino (ca)
+north america,united states of america,flint (mi)
+north america,united states of america,lincoln (ne)
+north america,united states of america,surprise (az)
+north america,united states of america,antioch (ca)
+north america,united states of america,riverside (ca)
+north america,united states of america,tempe (az)
+north america,united states of america,westminster (co)
+north america,united states of america,fort collins (co)
+north america,united states of america,torrance (ca)
+north america,united states of america,ontario (ca)
+north america,united states of america,portsmouth (va)
+north america,united states of america,arvada (co)
+north america,united states of america,visalia (ca)
+north america,united states of america,high point city (nc)
+north america,united states of america,cape coral (fl)
+north america,united states of america,mesa (az)
+north america,united states of america,san jose (ca)
+north america,united states of america,santa rosa (ca)
+north america,united states of america,charleston (sc)
+north america,united states of america,anchorage (ak)
+north america,united states of america,cleveland (oh)
+north america,united states of america,plano (tx)
+north america,united states of america,norman (ok)
+north america,united states of america,pasadena (ca)
+north america,united states of america,detroit (mi)
+north america,united states of america,naperville (il)
+north america,united states of america,urban honolulu (hi)
+north america,united states of america,carrollton (tx)
+north america,united states of america,newark (nj)
+north america,united states of america,aurora (il)
+north america,united states of america,memphis (tn)
+north america,united states of america,syracuse (ny)
+north america,united states of america,centennial (co)
+north america,united states of america,santa clara (ca)
+oceania,australia,greater sydney
+oceania,australia,greater brisbane
+oceania,australia,adelaide
+oceania,australia,melbourne
+oceania,australia,brisbane
+oceania,australia,greater adelaide
+oceania,australia,cairns
+oceania,australia,newcastle-maitland
+oceania,australia,toowoomba
+oceania,australia,perth
+oceania,australia,canberra-queanbeyan
+oceania,australia,sunshine coast
+oceania,australia,greater melbourne
+oceania,australia,albury-wodonga
+oceania,australia,greater perth
+oceania,australia,launceston
+oceania,australia,sydney
+oceania,australia,wollongong
+oceania,australia,central coast
+oceania,australia,canberra
+oceania,australia,gold coast
+oceania,australia,greater hobart
+oceania,australia,townsville
+oceania,australia,hobart
+oceania,australia,greater darwin
+oceania,australia,greater wollongong
+oceania,australia,newcastle
+oceania,australia,geelong
+oceania,australia,darwin
+oceania,australia,gold coast-tweed heads
+oceania,fiji,suva
+oceania,marshall islands,majuro
+oceania,new zealand,north shore
+oceania,new zealand,lower hutt
+oceania,new zealand,hamilton
+oceania,new zealand,tauranga
+oceania,new zealand,manukau
+oceania,new zealand,christchurch
+oceania,new zealand,dunedin
+oceania,new zealand,napier-hastings
+oceania,new zealand,auckland
+oceania,new zealand,wellington
+oceania,new zealand,waitakere
+oceania,papua new guinea,port moresby
+oceania,tonga,nuku'alofa
+oceania,tuvalu,funafuti
+south america,brazil,gravatai
+south america,brazil,bauru
+south america,brazil,sao gona§alo
+south america,brazil,conselheiro lafaiete
+south america,brazil,chapeca
+south america,brazil,ananindeua
+south america,brazil,franco da rocha
+south america,brazil,volta redonda
+south america,brazil,natal
+south america,brazil,teresina
+south america,brazil,luzia nia
+south america,brazil,barreiras
+south america,brazil,uruguaiana
+south america,brazil,vespasiano
+south america,brazil,campo grande
+south america,brazil,goia nia
+south america,brazil,franca
+south america,brazil,mara lia
+south america,brazil,fortaleza
+south america,brazil,alagoinhas
+south america,brazil,jaragua do sul
+south america,brazil,nova friburgo
+south america,brazil,rondonapolis
+south america,brazil,crato
+south america,brazil,ribeirao prato
+south america,brazil,santa barbara d'oeste
+south america,brazil,sapucaia do sul
+south america,brazil,marituba
+south america,brazil,itapevi
+south america,brazil,maua
+south america,brazil,santa maria
+south america,brazil,palmas
+south america,brazil,teresapolis
+south america,brazil,araras
+south america,brazil,teafilo otoni
+south america,brazil,serra
+south america,brazil,abaeteluba
+south america,brazil,simoes filho
+south america,brazil,boa vista
+south america,brazil,sinop
+south america,brazil,americana
+south america,brazil,itaquaquecetuba
+south america,brazil,ilhaus
+south america,brazil,rio das ostras
+south america,brazil,brusque
+south america,brazil,curitiba
+south america,brazil,governador valadares
+south america,brazil,itajaa 
+south america,brazil,timon
+south america,brazil,formosa
+south america,brazil,colombo
+south america,brazil,castanhal
+south america,brazil,botucatu
+south america,brazil,cascavel
+south america,brazil,maranguape
+south america,brazil,catanduva
+south america,brazil,sorocaba
+south america,brazil,cachoeirinha
+south america,brazil,pinhais
+south america,brazil,joao pessoa
+south america,brazil,sao lua s
+south america,brazil,sao vicente
+south america,brazil,porto velho
+south america,brazil,patos
+south america,brazil,eunapolis
+south america,brazil,parnamirim
+south america,brazil,valparaa so de goias
+south america,brazil,taubata
+south america,brazil,sao josa de ribamar
+south america,brazil,brasilia
+south america,brazil,marica
+south america,brazil,aguas lindas de goias
+south america,brazil,mossora
+south america,brazil,atibaia
+south america,brazil,palhoa§a
+south america,brazil,jacarea 
+south america,brazil,toledo
+south america,brazil,ibirita
+south america,brazil,parnaa ba
+south america,brazil,guaruja
+south america,brazil,piracicaba
+south america,brazil,santana
+south america,brazil,cabo frio
+south america,brazil,jaa
+south america,brazil,francisco morato
+south america,brazil,manaus
+south america,brazil,nossa senhora do socorro
+south america,brazil,valinhos
+south america,brazil,limeira
+south america,brazil,poa
+south america,brazil,sao josa dos pinhais
+south america,brazil,campinas
+south america,brazil,nova iguaa§u
+south america,brazil,birigui
+south america,brazil,bento gona§alves
+south america,brazil,jandira
+south america,brazil,corumba
+south america,brazil,moji-guaa§u
+south america,brazil,vitaria da conquista
+south america,brazil,sao josa dos campos
+south america,brazil,juazeiro
+south america,brazil,caruaru
+south america,brazil,apucarana
+south america,brazil,cachoeiro de itapemirim
+south america,brazil,araraquara
+south america,brazil,feira de santana
+south america,brazil,pindamonhangaba
+south america,brazil,itapecerica da serra
+south america,brazil,guaratingueta
+south america,brazil,itapipoca
+south america,brazil,maracanau
+south america,brazil,caxias
+south america,brazil,pelotas
+south america,brazil,uberaba
+south america,brazil,belford roxo
+south america,brazil,campos dos goytacazes
+south america,brazil,santo andra
+south america,brazil,itapetininga
+south america,brazil,macae
+south america,brazil,joinville
+south america,brazil,sao carlo
+south america,brazil,sao joao de meriti
+south america,brazil,rio branco
+south america,brazil,ourinhos
+south america,brazil,paulo afonso
+south america,brazil,maga
+south america,brazil,recife
+south america,brazil,santaram
+south america,brazil,sao josa do rio prato
+south america,brazil,arapongas
+south america,brazil,campo largo
+south america,brazil,canoas
+south america,brazil,barbacena
+south america,brazil,petrolina
+south america,brazil,salvador
+south america,brazil,baga
+south america,brazil,muriaa
+south america,brazil,sao mateus
+south america,brazil,rio de janeiro
+south america,brazil,tatua 
+south america,brazil,sete lagoas
+south america,brazil,caraguatatuba
+south america,brazil,resende
+south america,brazil,sao caetano do sul
+south america,brazil,jundiaa 
+south america,brazil,macapa
+south america,brazil,santa cruz do sul
+south america,brazil,teixeira de freitas
+south america,brazil,colatina
+south america,brazil,ribeirao das neves
+south america,brazil,umuarama
+south america,brazil,guarulhos
+south america,brazil,angra dos reis
+south america,brazil,jequia
+south america,brazil,rio claro
+south america,brazil,lages
+south america,brazil,codo
+south america,brazil,bragana§a paulista
+south america,brazil,osasco
+south america,brazil,imperatriz
+south america,brazil,carapicua ba
+south america,brazil,sao leopoldo
+south america,brazil,barretos
+south america,brazil,tras lagoas
+south america,brazil,vitaria
+south america,brazil,barra mansa
+south america,brazil,poa§os de caldas
+south america,brazil,sumara
+south america,brazil,lauro de freitas
+south america,brazil,sao josa
+south america,brazil,criciama
+south america,brazil,santa luzia (minas gerais)
+south america,brazil,almirante tamandara
+south america,brazil,caxias do sul
+south america,brazil,guarapari
+south america,brazil,santa rita
+south america,brazil,montes claros
+south america,brazil,itabuna
+south america,brazil,caucaia
+south america,brazil,varzea paulista
+south america,brazil,foz do iguaa§u
+south america,brazil,paa§o do lumiar
+south america,brazil,petrapolis
+south america,brazil,vitaria de santo antao
+south america,brazil,cotia
+south america,brazil,duque de caxias
+south america,brazil,itaboraa 
+south america,brazil,araucaria
+south america,brazil,bragana§a
+south america,brazil,parintins
+south america,brazil,coronel fabriciano
+south america,brazil,juiz de fora
+south america,brazil,itaguaa 
+south america,brazil,cameta
+south america,brazil,rio verde
+south america,brazil,garanhuns
+south america,brazil,passo fundo
+south america,brazil,santana de parnaa ba
+south america,brazil,taboao da serra
+south america,brazil,uberla ndia
+south america,brazil,viamao
+south america,brazil,belam
+south america,brazil,araguaina
+south america,brazil,itabiraa 
+south america,brazil,guarapuava
+south america,brazil,queimados
+south america,brazil,rio grande
+south america,brazil,paranagua
+south america,brazil,ferraz de vasconcelos
+south america,brazil,patos de minas
+south america,brazil,igarassu
+south america,brazil,belo horizonte
+south america,brazil,camaragibe
+south america,brazil,maceia
+south america,brazil,campina grande
+south america,brazil,barueri
+south america,brazil,itu
+south america,brazil,passos
+south america,brazil,sertaozinho
+south america,brazil,alvorada
+south america,brazil,vila velha
+south america,brazil,jua zeiro do norte
+south america,brazil,uba
+south america,brazil,pouso alegre
+south america,brazil,varzea grande
+south america,brazil,maraba
+south america,brazil,salto
+south america,brazil,aparecida de goiania
+south america,brazil,dourados
+south america,brazil,itatiba
+south america,brazil,olinda
+south america,brazil,embu
+south america,brazil,linhares
+south america,brazil,paulista
+south america,brazil,porto alegre
+south america,brazil,cariacica
+south america,brazil,ribeirao pires
+south america,brazil,sao bernardo do campo
+south america,brazil,nilapolis
+south america,brazil,varginha
+south america,brazil,ponta grossa
+south america,brazil,santos
+south america,brazil,sabara
+south america,brazil,florianapolis
+south america,brazil,balneario camboria
+south america,brazil,jaboatao dos guarapes
+south america,brazil,ipatinga
+south america,brazil,aracaju
+south america,brazil,mesquita
+south america,brazil,niterai
+south america,brazil,votorantim
+south america,brazil,moji das cruzes
+south america,brazil,sao lourena§o da mata
+south america,brazil,susano
+south america,brazil,aa§aila ndia
+south america,brazil,blumenou
+south america,brazil,navo hamburgo
+south america,brazil,sobral
+south america,brazil,contagem
+south america,brazil,divinapolis
+south america,brazil,sao paulo
+south america,brazil,araa§atuba
+south america,brazil,bacabal
+south america,brazil,araguario
+south america,brazil,londrina
+south america,brazil,anapolis
+south america,brazil,parauapebas
+south america,brazil,trindade
+south america,brazil,ji-parana
+south america,brazil,hortolandia
+south america,brazil,porto seguro
+south america,brazil,praia grande
+south america,brazil,arapiraca
+south america,brazil,indaiatuba
+south america,brazil,araruama
+south america,brazil,cuiaba
+south america,brazil,betim
+south america,brazil,camacari
+south america,brazil,cubatao
+south america,brazil,presidente prudente
+south america,brazil,diadema
+south america,brazil,maringa
+south america,brazil,cabo de santo agostinho
+south america,chile,chiguallante
+south america,chile,santiago
+south america,chile,antofagasta
+south america,chile,iquique
+south america,chile,valparaa so
+south america,chile,curica
+south america,chile,osorno
+south america,chile,la serena
+south america,chile,san pedro de la paz
+south america,chile,san bernardo
+south america,chile,alto hospicio
+south america,chile,chillan
+south america,chile,punta arenas
+south america,chile,puerto montt
+south america,chile,calama
+south america,chile,rancagua
+south america,chile,quilpua
+south america,chile,talca
+south america,chile,valdivia
+south america,chile,los angeles
+south america,chile,temuco
+south america,chile,talcahuano
+south america,chile,villa alemana
+south america,chile,concepcian
+south america,chile,arica
+south america,chile,coquimbo
+south america,chile,copiapa
+south america,chile,coronel
+south america,chile,via±a del mar
+south america,chile,puente alto
+south america,colombia,yopal
+south america,colombia,zipaquira
+south america,colombia,pasto
+south america,colombia,apartada
+south america,colombia,sincelejo
+south america,colombia,soacha
+south america,colombia,ipiales
+south america,colombia,barrancabermeja
+south america,colombia,quibdo
+south america,colombia,villavicencio
+south america,colombia,cacuta
+south america,colombia,envigado
+south america,colombia,dosquebradas
+south america,colombia,florencia
+south america,colombia,duitama
+south america,colombia,cartago
+south america,colombia,fusagasuga
+south america,colombia,floridablanca
+south america,colombia,popayan
+south america,colombia,giran
+south america,colombia,ibagua
+south america,colombia,santa marta
+south america,colombia,piedecuesta
+south america,colombia,tunja
+south america,colombia,bello
+south america,colombia,valledupar
+south america,colombia,sogamoso
+south america,colombia,neiva
+south america,colombia,turbo
+south america,colombia,facatativa
+south america,colombia,buenaventura
+south america,colombia,bogota
+south america,colombia,riohacha
+south america,colombia,cianaga
+south america,colombia,magangua
+south america,colombia,cartagena
+south america,colombia,bucaramanga
+south america,colombia,pereira
+south america,colombia,itagai
+south america,colombia,rionegro
+south america,colombia,uribia
+south america,colombia,palmira
+south america,colombia,maicao
+south america,colombia,montera a
+south america,colombia,barranquilla
+south america,colombia,pitalito
+south america,colombia,manizales
+south america,colombia,medella n
+south america,colombia,cali
+south america,colombia,san andres de tumaco
+south america,colombia,soledad
+south america,colombia,tulua
+south america,colombia,armenia
+south america,colombia,gudalajara de buga
+south america,colombia,lorica
+south america,ecuador,guayaquil
+south america,ecuador,milagro
+south america,ecuador,esmeraldas
+south america,ecuador,santa elena
+south america,ecuador,loja
+south america,ecuador,riobamba
+south america,ecuador,cuenca
+south america,ecuador,manta
+south america,ecuador,duran
+south america,ecuador,machala
+south america,ecuador,calderon (carapungo)
+south america,ecuador,ambato
+south america,ecuador,quevedo
+south america,ecuador,portoviejo
+south america,ecuador,quito
+south america,ecuador,ibarra
+south america,guyana,georgetown
+south america,peru,chimbote
+south america,peru,huanuco
+south america,peru,pisco
+south america,peru,cajamarca
+south america,peru,chincha alta
+south america,peru,ayacucho
+south america,peru,lima
+south america,peru,arequipa
+south america,peru,pucallpa
+south america,peru,sullana
+south america,peru,callao
+south america,peru,cuzco
+south america,peru,iquitos
+south america,peru,juliaca
+south america,peru,trujillo
+south america,peru,ica
+south america,peru,tacna
+south america,peru,chiclayo
+south america,peru,huancayo
+south america,peru,piura
+south america,peru,puno
+south america,peru,huaraz
+south america,peru,tarapoto
+south america,suriname,paramaribo
+south america,uruguay,montevideo
+south america,uruguay,salto
+south america,venezuela,guanare
+south america,venezuela,guarenas
+south america,venezuela,puerto cabello
+south america,venezuela,ciudad ojeda
+south america,venezuela,cagua
+south america,venezuela,maracaibo
+south america,venezuela,petare
+south america,venezuela,los guayos
+south america,venezuela,tariba
+south america,venezuela,marida
+south america,venezuela,el silencio
+south america,venezuela,baruta
+south america,venezuela,cua
+south america,venezuela,pozuelos (f) (capital)
+south america,venezuela,turmero
+south america,venezuela,barcelona
+south america,venezuela,cumana
+south america,venezuela,san cristabal
+south america,venezuela,el tigre
+south america,venezuela,san fernando de apure
+south america,venezuela,caracas
+south america,venezuela,catia la mar
+south america,venezuela,san francisco
+south america,venezuela,valencia
+south america,venezuela,ciudad guayana
+south america,venezuela,valera
+south america,venezuela,tocuyito
+south america,venezuela,los teques
+south america,venezuela,ocumare del tuy
+south america,venezuela,maracay
+south america,venezuela,puerto la cruz
+south america,venezuela,barcelona-puerto la cruz
+south america,venezuela,carapano
+south america,venezuela,acarigua-araure
+south america,venezuela,carora
+south america,venezuela,coro
+south america,venezuela,guatire
+south america,venezuela,punto fijo
+south america,venezuela,ciudad bola var
+south america,venezuela,cabimas
+south america,venezuela,matura n
+south america,venezuela,guacara
+south america,venezuela,anaco(f) (capital)
+south america,venezuela,santa lucia
+south america,venezuela,barquisimeto
+south america,venezuela,naguanagua
+south america,venezuela,barinas
