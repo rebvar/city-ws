@@ -18,5 +18,4 @@ public class AppConstants {
     public static final String H2_CONSOLE = "/h2-console/**";
     public static String TOKEN_SECRET;
     public static boolean SECURITY_ENABLED=false;
-	
 }
