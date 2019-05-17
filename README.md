@@ -120,7 +120,6 @@ One can login using:
 ```
 curl -X POST \
   http://localhost:8080/city-ws/users/login \
-  -H ': ' \
   -H 'Accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
