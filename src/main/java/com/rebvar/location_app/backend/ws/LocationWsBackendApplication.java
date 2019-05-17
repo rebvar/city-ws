@@ -12,9 +12,19 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import com.rebvar.location_app.backend.ws.security.SecurityUtils;
 import com.rebvar.location_app.backend.ws.util.ResourceUtil;
 
+/**
+ * The Class LocationWsBackendApplication.
+ *
+ * @author Rebvar
+ */
 @SpringBootApplication
 public class LocationWsBackendApplication {
 
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main(String[] args) {
 	
 		ResourceUtil.LoadApplicationConstants();	
@@ -22,6 +32,11 @@ public class LocationWsBackendApplication {
 	}
 	
 	
+	/**
+	 * B crypt encoder.
+	 *
+	 * @return the b crypt password encoder
+	 */
 	@Bean
 	public BCryptPasswordEncoder bCryptEncoder()
 	{
@@ -29,12 +44,22 @@ public class LocationWsBackendApplication {
 	}
 
 	
+	/**
+	 * Spring application context.
+	 *
+	 * @return the spring application context
+	 */
 	@Bean 
 	public SpringApplicationContext springApplicationContext()
 	{
 		return new SpringApplicationContext();
 	}
 	
+	/**
+	 * Security utils.
+	 *
+	 * @return the security utils
+	 */
 	@Bean
 	public SecurityUtils securityUtils()
 	{

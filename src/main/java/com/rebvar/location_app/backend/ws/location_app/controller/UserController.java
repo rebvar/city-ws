@@ -19,20 +19,27 @@ import com.rebvar.location_app.backend.ws.location_app.model.response.UserDataRe
 import com.rebvar.location_app.backend.ws.security.SecurityUtils;
 import com.rebvar.location_app.backend.ws.service.UserService;
 
+/**
+ * The Class UserController.
+ */
 @RestController
 @RequestMapping("/users")
 public class UserController {
 	
+	/** The user service. */
 	@Autowired
 	UserService userService;
 	
+	/** The sutils. */
 	@Autowired
 	SecurityUtils sutils;
 
 	
 	
 	/**
-	 * @param Auth_Token
+	 * Gets the user.
+	 *
+	 * @param Auth_Token the auth token
 	 * @return Returns a logged in user data. Reads the auth_token to find valid user.
 	 */
 	@GetMapping(produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
@@ -48,7 +55,9 @@ public class UserController {
 	}
 	
 	/**
-	 * @param userdata
+	 * Creates the user.
+	 *
+	 * @param userdata the userdata
 	 * @return registers a new user.
 	 */
 	@PostMapping(produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE }, consumes = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
@@ -63,8 +72,10 @@ public class UserController {
 	
 	
 	/**
-	 * @param userdata
-	 * @param Auth_Token
+	 * Update user.
+	 *
+	 * @param userdata the userdata
+	 * @param Auth_Token the auth token
 	 * @return Updates a user. First checks the identity with the auth_token.
 	 */
 	@PutMapping(produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE }, consumes = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })

@@ -15,7 +15,15 @@ import org.springframework.core.io.ClassPathResource;
 
 import com.rebvar.location_app.backend.ws.AppConstants;
 
+
+/**
+ * The Class ResourceUtil.
+ */
 public class ResourceUtil {
+	
+	/**
+	 * Load application constants.
+	 */
 	public static void LoadApplicationConstants() {
 	    
 	    try {
@@ -44,6 +52,11 @@ public class ResourceUtil {
 	    }
 	}
 	
+	/**
+	 * Read country data.
+	 *
+	 * @return the list
+	 */
 	public static List<String[]> ReadCountryData() {
 		
 		List<String[]> ret = new ArrayList<String[]>();
@@ -69,6 +82,15 @@ public class ResourceUtil {
 	    return ret;
 	}
 
+	/**
+	 * Open resource.
+	 *
+	 * @param name the name
+	 * @return the string
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 * @throws FileNotFoundException the file not found exception
+	 * @throws UnsupportedEncodingException the unsupported encoding exception
+	 */
 	private static String openResource(String name) throws IOException, FileNotFoundException, UnsupportedEncodingException {
 		String dataStr = "";
 		

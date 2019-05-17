@@ -15,14 +15,32 @@ import org.springframework.security.web.authentication.www.BasicAuthenticationFi
 
 import com.rebvar.location_app.backend.ws.AppConstants;
 
+/**
+ * The Class AuthorizationFilter.
+ */
 public class AuthorizationFilter extends BasicAuthenticationFilter {
     	
+	/** The sutils. */
 	static SecurityUtils sutils = new SecurityUtils();
 	
+    /**
+     * Instantiates a new authorization filter.
+     *
+     * @param authManager the auth manager
+     */
     public AuthorizationFilter(AuthenticationManager authManager) {
         super(authManager);
      }
     
+    /**
+     * Do filter internal.
+     *
+     * @param req the req
+     * @param res the res
+     * @param chain the chain
+     * @throws IOException Signals that an I/O exception has occurred.
+     * @throws ServletException the servlet exception
+     */
     @Override
     protected void doFilterInternal(HttpServletRequest req,
                                     HttpServletResponse res,
@@ -42,7 +60,9 @@ public class AuthorizationFilter extends BasicAuthenticationFilter {
     
     
     /**
-     * @param request
+     * Gets the authentication.
+     *
+     * @param request the request
      * @return Validates the request header for sign in process.
      */
     private UsernamePasswordAuthenticationToken getAuthentication(HttpServletRequest request) {

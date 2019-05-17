@@ -6,8 +6,17 @@ import com.rebvar.location_app.backend.ws.AppConstants;
 
 import io.jsonwebtoken.Jwts;
 
+/**
+ * The Class SecurityUtils.
+ */
 public class SecurityUtils {
 	
+	/**
+	 * Gets the user id from token.
+	 *
+	 * @param token the token
+	 * @return the user id from token
+	 */
 	public String getUserIdFromToken(String token)
 	{
 		if(token == null)
@@ -36,8 +45,9 @@ public class SecurityUtils {
 	
 	
 	/**
-	 * @return
-	 * Generates a Unique String Id
+	 * Gets the uuid.
+	 *
+	 * @return Generates a Unique String Id
 	 */
 	public String getUUID()
 	{

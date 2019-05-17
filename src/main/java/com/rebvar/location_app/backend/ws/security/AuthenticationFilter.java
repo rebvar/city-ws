@@ -24,17 +24,35 @@ import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
 /**
- * @author sehossei
+ * The Class AuthenticationFilter.
  *
+ * @author sehossei
  */
 public class AuthenticationFilter extends UsernamePasswordAuthenticationFilter {
+    
+    /** The authentication manager. */
     private final AuthenticationManager authenticationManager;    
+    
+    /** The content type. */
     private String contentType;
  
+    /**
+     * Instantiates a new authentication filter.
+     *
+     * @param authenticationManager the authentication manager
+     */
     public AuthenticationFilter(AuthenticationManager authenticationManager) {
         this.authenticationManager = authenticationManager;
     }
     
+    /**
+     * Attempt authentication.
+     *
+     * @param req the req
+     * @param res the res
+     * @return the authentication
+     * @throws AuthenticationException the authentication exception
+     */
     @Override
     public Authentication attemptAuthentication(HttpServletRequest req,
                                                 HttpServletResponse res) throws AuthenticationException {
@@ -60,6 +78,13 @@ public class AuthenticationFilter extends UsernamePasswordAuthenticationFilter {
     
     /**
      * Generates the login token, and is added to the response header for future authorization.
+     *
+     * @param req the req
+     * @param res the res
+     * @param chain the chain
+     * @param auth the auth
+     * @throws IOException Signals that an I/O exception has occurred.
+     * @throws ServletException the servlet exception
      */
     @Override
     protected void successfulAuthentication(HttpServletRequest req,

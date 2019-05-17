@@ -9,8 +9,17 @@ import com.rebvar.location_app.backend.ws.location_app.model.response.CityRespon
 import com.rebvar.location_app.backend.ws.location_app.model.response.ContinentResponseModel;
 import com.rebvar.location_app.backend.ws.location_app.model.response.CountryResponseModel;
 
+/**
+ * The Class DtoUtil.
+ */
 public class DtoUtil {
 
+	/**
+	 * Dto to city response model list.
+	 *
+	 * @param dtos the dtos
+	 * @return the list
+	 */
 	public static List<CityResponseModel> dtoToCityResponseModelList(List<CityDTO> dtos)
 	{
 		List<CityResponseModel> retList = new ArrayList<CityResponseModel>();
@@ -33,6 +42,12 @@ public class DtoUtil {
 		return retList;
 	}
 	
+	/**
+	 * Dto to city response model list.
+	 *
+	 * @param wdto the wdto
+	 * @return the list
+	 */
 	public static List<CityResponseModel> dtoToCityResponseModelList(CityDTO wdto)
 	{
 		List<CityDTO> dtos = new ArrayList<CityDTO>();
@@ -42,6 +57,12 @@ public class DtoUtil {
 	}
 	
 	
+	/**
+	 * Dto to country response model list.
+	 *
+	 * @param dtos the dtos
+	 * @return the list
+	 */
 	public static List<CountryResponseModel> dtoToCountryResponseModelList(List<CountryDTO> dtos)
 	{
 		List<CountryResponseModel> retList = new ArrayList<CountryResponseModel>();
@@ -62,6 +83,12 @@ public class DtoUtil {
 	}
 	
 
+	/**
+	 * Dto to country response model list.
+	 *
+	 * @param wdto the wdto
+	 * @return the list
+	 */
 	public static List<CountryResponseModel> dtoToCountryResponseModelList(CountryDTO wdto)
 	{
 		List<CountryDTO> dtos = new ArrayList<CountryDTO>();
@@ -70,6 +97,12 @@ public class DtoUtil {
 		return dtoToCountryResponseModelList(dtos);
 	}
 	
+	/**
+	 * Dto to continent response model list.
+	 *
+	 * @param dtos the dtos
+	 * @return the list
+	 */
 	public static List<ContinentResponseModel> dtoToContinentResponseModelList(List<ContinentDTO> dtos)
 	{
 		List<ContinentResponseModel> retList = new ArrayList<ContinentResponseModel>();
@@ -87,13 +120,17 @@ public class DtoUtil {
 	}
 	
 
+	/**
+	 * Dto to continent response model list.
+	 *
+	 * @param wdto the wdto
+	 * @return the list
+	 */
 	public static List<ContinentResponseModel> dtoToContinentResponseModelList(ContinentDTO wdto)
 	{
 		List<ContinentDTO> dtos = new ArrayList<ContinentDTO>();
 		if (wdto!=null)
 			dtos.add(wdto);
 		return dtoToContinentResponseModelList(dtos);
-	}
-
-	
+	}	
 }

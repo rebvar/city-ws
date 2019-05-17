@@ -13,19 +13,30 @@ import com.rebvar.location_app.backend.ws.AppConstants;
 import com.rebvar.location_app.backend.ws.service.UserService;
 
 /**
- * @author sehossei
+ * The Class AppSecurity.
+ *
+ * @author Rebvar
  *  Configures the security properties of the rest api. Provides a list of publicly available endpoints such as register
- *  login, and anonymous searches.
+ *  login, and map tasks.
  */
 @EnableWebSecurity
 public class AppSecurity extends WebSecurityConfigurerAdapter {
 
 	
+	/** The user details service. */
 	private final UserService userDetailsService;
+	
+	/** The b crypt encoder. */
 	private final BCryptPasswordEncoder bCryptEncoder;
 	
 	
 	
+	/**
+	 * Configure.
+	 *
+	 * @param httpSecurity the http security
+	 * @throws Exception the exception
+	 */
 	@Override
 	protected void configure(HttpSecurity httpSecurity) throws Exception
 	{
@@ -44,6 +55,12 @@ public class AppSecurity extends WebSecurityConfigurerAdapter {
 		.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
 	}
 	
+	/**
+	 * Configure.
+	 *
+	 * @param authManager the auth manager
+	 * @throws Exception the exception
+	 */
 	@Override
 	public void configure(AuthenticationManagerBuilder authManager) throws Exception
 	{
@@ -51,6 +68,12 @@ public class AppSecurity extends WebSecurityConfigurerAdapter {
 	}
 	
 	
+	/**
+	 * Instantiates a new app security.
+	 *
+	 * @param userDetailsService the user details service
+	 * @param bCryptEncoder the b crypt encoder
+	 */
 	public AppSecurity(UserService userDetailsService, BCryptPasswordEncoder bCryptEncoder)
 	{
 		this.bCryptEncoder = bCryptEncoder;
@@ -58,6 +81,12 @@ public class AppSecurity extends WebSecurityConfigurerAdapter {
 	}
 	
 	
+	/**
+	 * Gets the authentication filter.
+	 *
+	 * @return the authentication filter
+	 * @throws Exception the exception
+	 */
 	protected AuthenticationFilter getAuthenticationFilter() throws Exception {
 	    final AuthenticationFilter filter = new AuthenticationFilter(authenticationManager());
 	    //Set the address for the login endpoint

@@ -29,29 +29,46 @@ import com.rebvar.location_app.backend.ws.location_app.model.request.CityRequest
 import com.rebvar.location_app.backend.ws.location_app.model.response.CityResponseModel;
 import com.rebvar.location_app.backend.ws.location_app.model.response.CountryResponseModel;
 
+/**
+ * The Class LocationControllerTest.
+ */
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 @ActiveProfiles("test")
 class LocationControllerTest {
 
+	/** The location controller. */
 	@InjectMocks
 	LocationController locationController;
 	
+	/** The user service. */
 	@Mock
 	UserServiceImpl userService;
 	
+	/** The location service. */
 	@Mock
 	LocationServiceImpl locationService;
 	
 	
+	/** The sutils. */
 	@Mock
 	SecurityUtils sutils;
 	
 	
+	/** The europe. */
 	ContinentDTO europe;
+	
+	/** The finland. */
 	CountryDTO finland;
+	
+	/** The oulu. */
 	CityDTO oulu;
 	
+	/**
+	 * Sets the up.
+	 *
+	 * @throws Exception the exception
+	 */
 	@BeforeEach
 	void setUp() throws Exception {
 		
@@ -73,6 +90,9 @@ class LocationControllerTest {
 		
 	}
 
+	/**
+	 * Test get city.
+	 */
 	@Test
 	final void testGetCity() {
 	    when(locationService.getCity(anyString(),anyString())).thenReturn(oulu);
@@ -86,6 +106,9 @@ class LocationControllerTest {
 	    assertEquals(ouluResp.getCountryId(),oulu.getCountry().getUniqueId());
 	}
 	
+	/**
+	 * Test search city.
+	 */
 	@Test
 	final void testSearchCity() {
 		
@@ -100,6 +123,9 @@ class LocationControllerTest {
 	    assertEquals(ouluResp.getCountryId(),oulu.getCountry().getUniqueId());
 	}
 	
+	/**
+	 * Test search city by country.
+	 */
 	@Test
 	final void testSearchCityByCountry() {
 		
@@ -114,6 +140,9 @@ class LocationControllerTest {
 	    assertEquals(ouluResp.getCountryId(),oulu.getCountry().getUniqueId());
 	}
 
+	/**
+	 * Test search country by continent.
+	 */
 	@Test
 	final void testSearchCountryByContinent() {
 		
@@ -128,6 +157,9 @@ class LocationControllerTest {
 	    assertEquals(finResp.getContinentId(),finland.getContinent().getUniqueId());
 	}
 	
+	/**
+	 * Test save city.
+	 */
 	@Test
 	final void testSaveCity() {
 		

@@ -20,24 +20,40 @@ import com.rebvar.location_app.backend.ws.security.SecurityUtils;
 import com.rebvar.location_app.backend.ws.location_app.controller.UserController;
 import com.rebvar.location_app.backend.ws.location_app.model.response.UserDataResponseModel;
 
+/**
+ * The Class UserControllerTest.
+ */
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 @ActiveProfiles("test")
 class UserControllerTest {
 
+	/** The user controller. */
 	@InjectMocks
 	UserController userController;
 	
+	/** The user service. */
 	@Mock
 	UserServiceImpl userService;
 	
+	/** The sutils. */
 	@Mock
 	SecurityUtils sutils;
 	
+	/** The user dto. */
 	UserDTO userDto;
 	
+	/** The user id. */
 	final String USER_ID = "user1";
+	
+	/** The user token. */
 	final String USER_TOKEN = "token"; 
+	
+	/**
+	 * Sets the up.
+	 *
+	 * @throws Exception the exception
+	 */
 	@BeforeEach
 	void setUp() throws Exception {
 		MockitoAnnotations.initMocks(this);
@@ -51,6 +67,9 @@ class UserControllerTest {
 		
 	}
 
+	/**
+	 * Test get user.
+	 */
 	@Test
 	final void testGetUser() {
 	    when(userService.getUserByUserId(anyString())).thenReturn(userDto);

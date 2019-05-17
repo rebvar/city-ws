@@ -18,18 +18,30 @@ import java.util.ArrayList;
 
 import org.modelmapper.ModelMapper;
 
+/**
+ * The Class UserServiceImpl.
+ */
 @Service
 public class UserServiceImpl implements UserService{
 
+	/** The user repository. */
 	@Autowired 
 	UserRepository userRepository;
 	
+	/** The b crypt encoder. */
 	@Autowired
 	BCryptPasswordEncoder bCryptEncoder;
 	
+	/** The sutils. */
 	@Autowired 
 	SecurityUtils sutils;
 	
+	/**
+	 * Creates the user.
+	 *
+	 * @param inputUserData the input user data
+	 * @return the user DTO
+	 */
 	@Override
 	public UserDTO createUser(UserDTO inputUserData) {
 				
@@ -45,6 +57,13 @@ public class UserServiceImpl implements UserService{
 	}
 
 	
+	/**
+	 * Load user by username.
+	 *
+	 * @param email the email
+	 * @return the user details
+	 * @throws UsernameNotFoundException the username not found exception
+	 */
 	@Override
 	public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
 		UserEntity u = userRepository.findByEmail(email);
@@ -53,6 +72,12 @@ public class UserServiceImpl implements UserService{
 		return new User(u.getUserId(), u.getEncryptedPassword(), new ArrayList<>());
 	}
 
+	/**
+	 * Gets the user by email.
+	 *
+	 * @param email the email
+	 * @return the user by email
+	 */
 	@Override
 	public UserDTO getUserByEmail(String email) {
 		UserEntity u = userRepository.findByEmail(email);
@@ -62,6 +87,12 @@ public class UserServiceImpl implements UserService{
 	}
 	
 	
+	/**
+	 * Gets the user by user id.
+	 *
+	 * @param publicUserId the public user id
+	 * @return the user by user id
+	 */
 	@Override
 	public UserDTO getUserByUserId(String publicUserId) {
 		UserEntity u = userRepository.findByUserId(publicUserId);
@@ -71,6 +102,12 @@ public class UserServiceImpl implements UserService{
 	}
 
 	
+	/**
+	 * Update user.
+	 *
+	 * @param userDto the user dto
+	 * @return the user DTO
+	 */
 	@Override
 	public UserDTO updateUser(UserDTO userDto) {
 		UserEntity u = userRepository.findByUserId(userDto.getUserId());

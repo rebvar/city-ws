@@ -26,29 +26,41 @@ import com.rebvar.location_app.backend.ws.db.entity.CountryEntity;
 import com.rebvar.location_app.backend.ws.security.SecurityUtils;
 import com.rebvar.location_app.backend.ws.service.Impl.LocationServiceImpl;
 
+/**
+ * The Class LocationRepositoryTests.
+ */
 @ActiveProfiles("test")
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 public class LocationRepositoryTests {
 
 	
+	/** The city repository. */
 	@Autowired
 	CityRepository cityRepository;
 
+	/** The country repository. */
 	@Autowired
 	CountryRepository countryRepository;
 
+	/** The continent repository. */
 	@Autowired
 	ContinentRepository continentRepository;
 
+	/** The sutils. */
 	@Autowired 
 	SecurityUtils sutils;
 	
+	/** The location service. */
 	@Autowired
 	LocationServiceImpl locationService;
 	
+	/** The data created. */
 	static boolean dataCreated = false;
 
+	/**
+	 * Sets the up.
+	 */
 	@BeforeEach
 	void setUp() {
 		createRecords();
@@ -57,6 +69,9 @@ public class LocationRepositoryTests {
 	
 
 		
+	/**
+	 * Test location country.
+	 */
 	@Test
 	final void testLocationCountry() {
 		
@@ -67,6 +82,9 @@ public class LocationRepositoryTests {
 	}
 	
 	
+	/**
+	 * Test delete city.
+	 */
 	@Test
 	final void testDeleteCity() {
 		
@@ -81,6 +99,9 @@ public class LocationRepositoryTests {
 	}
 	
 	
+	/**
+	 * Test delete country.
+	 */
 	@Test
 	final void testDeleteCountry() {
 		
@@ -123,6 +144,9 @@ public class LocationRepositoryTests {
 	}
 	
 	
+	/**
+	 * Test insert duplicate location.
+	 */
 	@Test
 	void testInsertDuplicateLocation() {
 		
@@ -224,6 +248,9 @@ public class LocationRepositoryTests {
 	
 	
 	
+	/**
+	 * Creates the records.
+	 */
 	private void createRecords() {
 		
 		cityRepository.deleteAll();
@@ -283,6 +310,9 @@ public class LocationRepositoryTests {
 		
 	}
 	
+	/**
+	 * Test bulk load resource data.
+	 */
 	@Test
 	@Transactional
 	public void testBulkLoadResourceData()
@@ -290,7 +320,7 @@ public class LocationRepositoryTests {
 		cityRepository.deleteAll();
 		countryRepository.deleteAll();
 		continentRepository.deleteAll();
-		int count = locationService.bulkLoad(100);
+		int count = locationService.loadFromResources(100);
 		assertTrue(count>0);
 		Iterable<CityEntity> cities = cityRepository.findAll();
 		int count2 = 0;

@@ -27,20 +27,27 @@ import com.rebvar.location_app.backend.ws.location_app.model.response.CountryRes
 import com.rebvar.location_app.backend.ws.security.SecurityUtils;
 import com.rebvar.location_app.backend.ws.service.LocationService;
 
+/**
+ * The Class LocationController.
+ */
 @RestController
 @RequestMapping("/map")
 public class LocationController {
 
+	/** The location service. */
 	@Autowired
 	LocationService locationService;
 	
+	/** The sutils. */
 	@Autowired
 	SecurityUtils sutils;
 	
 	
 	/**
-	 * @param city
-	 * @param Auth_Token
+	 * Gets the city.
+	 *
+	 * @param cityId the city id
+	 * @param Auth_Token the auth token
 	 * @return search by city: Format : /map/city/id of the city
 	 */
 	@GetMapping(path = "/city/{cityId}", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
@@ -54,6 +61,13 @@ public class LocationController {
 		return retCityList;
 	}
 	
+	/**
+	 * Delete city.
+	 *
+	 * @param cId the c id
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@DeleteMapping(path = "/city/{cId}", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> deleteCity(@PathVariable String cId, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{		
@@ -64,6 +78,13 @@ public class LocationController {
 	}
 	
 	
+	/**
+	 * Delete country.
+	 *
+	 * @param cId the c id
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@DeleteMapping(path = "/country/{cId}", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> deleteCountry(@PathVariable String cId, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{		
@@ -74,6 +95,13 @@ public class LocationController {
 	}
 	
 	
+	/**
+	 * Delete continent.
+	 *
+	 * @param cId the c id
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@DeleteMapping(path = "/continent/{cId}", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> deleteContinent(@PathVariable String cId, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{		
@@ -83,6 +111,13 @@ public class LocationController {
 		return retCityList;
 	}
 	
+	/**
+	 * Adds the city.
+	 *
+	 * @param cityData the city data
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@PostMapping(path = "/city", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> addCity(@RequestBody CityRequestModel cityData,@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -93,6 +128,13 @@ public class LocationController {
 	}
 	
 	
+	/**
+	 * Adds the country.
+	 *
+	 * @param countryData the country data
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@PostMapping(path = "/country", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CountryResponseModel> addCountry(@RequestBody CountryRequestModel countryData,@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{		
@@ -102,6 +144,13 @@ public class LocationController {
 		return retList;
 	}
 	
+	/**
+	 * Adds the continent.
+	 *
+	 * @param continentData the continent data
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@PostMapping(path = "/continent", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<ContinentResponseModel> addContinent(@RequestBody ContinentRequestModel continentData,@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -112,6 +161,13 @@ public class LocationController {
 		return retList;
 	}
 	
+	/**
+	 * Search cities.
+	 *
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/city/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> searchCities(@PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -120,6 +176,13 @@ public class LocationController {
 		return DtoUtil.dtoToCityResponseModelList(citiesDto);
 	}
 	
+	/**
+	 * Search countries.
+	 *
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/country/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CountryResponseModel> searchCountries(@PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -130,6 +193,13 @@ public class LocationController {
 	}
 	
 	
+	/**
+	 * Search continents.
+	 *
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/continent/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<ContinentResponseModel> searchContinents(@PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -138,6 +208,14 @@ public class LocationController {
 		return DtoUtil.dtoToContinentResponseModelList(dtos);
 	}
 	
+	/**
+	 * Search cities in country.
+	 *
+	 * @param countryId the country id
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/country/{countryId}/city/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> searchCitiesInCountry(@PathVariable String countryId, @PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{	
@@ -147,6 +225,14 @@ public class LocationController {
 	}
 	
 	
+	/**
+	 * Search cities in continent.
+	 *
+	 * @param continentId the continent id
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/continent/{continentId}/city/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CityResponseModel> searchCitiesInContinent(@PathVariable String continentId, @PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{		
@@ -155,6 +241,14 @@ public class LocationController {
 		return DtoUtil.dtoToCityResponseModelList(citiesDto);
 	}
 	
+	/**
+	 * Search countries in continent.
+	 *
+	 * @param continentId the continent id
+	 * @param name the name
+	 * @param Auth_Token the auth token
+	 * @return the list
+	 */
 	@GetMapping(path = {"/search/continent/{continentId}/country/{name}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public List<CountryResponseModel> searchCountriesInContinent(@PathVariable String continentId, @PathVariable String name, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
@@ -163,95 +257,19 @@ public class LocationController {
 		return DtoUtil.dtoToCountryResponseModelList(countriesDto);
 	}
 	
+	/**
+	 * Bulk load.
+	 *
+	 * @param count the count
+	 * @param Auth_Token the auth token
+	 * @return the int
+	 */
 	@PostMapping(path = {"/admin/bulk-load/{count}"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
 	public int bulkLoad(@PathVariable int count, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
 	{
 		String userId = sutils.getUserIdFromToken(Auth_Token);
-		int countRet = locationService.bulkLoad(count);
+		int countRet = locationService.loadFromResources(count);
 		return countRet;
 	}
-	
-//	/**
-//	 * @param fav
-//	 * @param Auth_Token
-//	 * @return Adds an item to the favorites. Due to the three design options for this behaviours, a POST method is used. 
-//	 * Can be PUT mapping as well. Returns an OperationResult value.  
-//	 */
-//	@PostMapping(path = {"/favorites"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
-//	public LocationWeatherResponseModel AddToFavorites(@RequestBody UserFavoritesRequestModel fav, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
-//	{
-//		String userId = sutils.getUserIdFromToken(Auth_Token);
-//		if (userId.isEmpty())
-//			throw new RuntimeException("Invalid authorisation token... No user info has been specified..");
-//		return new ModelMapper().map(weatherService.addToFavorites(fav.getUniqueId(), userId), LocationWeatherResponseModel.class);
-//	}
-//	
-//	/**
-//	 * @param Auth_Token
-//	 * @return All the searches by a logged in user. Throws exception for invalid auth_token values.
-//	 */
-//	@GetMapping(path = "/searches", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
-//	public List<LocationWeatherResponseModel> getUserSearches(@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
-//	{
-//		String userId = sutils.getUserIdFromToken(Auth_Token);
-//		if (userId.isEmpty())
-//			throw new RuntimeException("Invalid authorisation token... No user info has been specified..");
-//		
-//		List<LocationWeatherDTO> wdtos = weatherService.getAllWeatherSearches(userId);
-//		List<LocationWeatherResponseModel> ret = new ArrayList<LocationWeatherResponseModel>();
-//		ModelMapper mapper = new ModelMapper();
-//		wdtos.forEach(wdto->ret.add(mapper.map(wdto, LocationWeatherResponseModel.class)));
-//		return ret;
-//	}
-//	
-//	
-//	/**
-//	 * @param Auth_Token
-//	 * @return All the favorites for a logged in user. Throws exception for invalid auth_token values.
-//	 */
-//	@GetMapping(path = {"/favorites"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
-//	public List<LocationWeatherResponseModel> getAllFavorites(@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
-//	{
-//		String userId = sutils.getUserIdFromToken(Auth_Token);
-//		if (userId.isEmpty())
-//			throw new RuntimeException("Invalid authorisation token... No user info has been specified..");
-//	    List<LocationWeatherDTO> wdtos = weatherService.getAllFavorites(userId);
-//	    ModelMapper mapper = new ModelMapper();
-//	    
-//	    List<LocationWeatherResponseModel> retRest = new ArrayList<LocationWeatherResponseModel>();
-//	    wdtos.forEach(wdto->retRest.add(mapper.map(wdto, LocationWeatherResponseModel.class)));
-//	    return retRest;
-//	}
-//	
-//	
-//	/**
-//	 * @param fav
-//	 * @param Auth_Token
-//	 * @return Removes an item from the user favorites. 
-//	 */
-//	@DeleteMapping(path = {"/favorites"}, produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
-//	public LocationWeatherResponseModel deleteFromFavorites(@RequestBody UserFavoritesRequestModel fav, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
-//	{
-//		String userId = sutils.getUserIdFromToken(Auth_Token);
-//		if (userId.isEmpty())
-//			throw new RuntimeException("Invalid authorisation token... No user info has been specified..");
-//	    LocationWeatherDTO res = weatherService.deleteFromFavorites(fav.getUniqueId(), userId);
-//	    return new ModelMapper().map(res, LocationWeatherResponseModel.class);
-//	}
-//	
-//	
-//	/**
-//	 * @param id
-//	 * @param Auth_Token
-//	 * @return Returns a weather search from the two tables. If the user is valid and logged in, from LocationWeather. 
-//	 * if not from the Anonymous table. Accepts a public unique Id.
-//	 */
-//	@GetMapping(path="/{id}", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE }, consumes = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE })
-//	public LocationWeatherResponseModel getSearchedWeather(@PathVariable String id, @RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)
-//	{
-//		String userId = sutils.getUserIdFromToken(Auth_Token);
-//		LocationWeatherDTO locationWeather = weatherService.getSavedWeather(id, userId);
-//		return dtoToResponseModel(locationWeather);
-//	}
 	
 }

@@ -15,23 +15,36 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import com.rebvar.location_app.backend.ws.db.entity.UserEntity;
 import com.rebvar.location_app.backend.ws.db.repository.UserRepository;
 
+/**
+ * The Class UserRepositoryTests.
+ */
 @ActiveProfiles("test")
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 public class UserRepositoryTests {
 
+	/** The user repository. */
 	@Autowired
 	UserRepository userRepository;
 	
+	/** The data created. */
 	static boolean dataCreated = false;
 	
 
+	/**
+	 * Sets the up.
+	 *
+	 * @throws Exception the exception
+	 */
 	@BeforeEach
 	void setUp() throws Exception {
 		
 		if(!dataCreated) createRecrods();
 	}
 	
+	/**
+	 * Test find user by name.
+	 */
 	@Test 
 	final void testFindUserByName()
 	{
@@ -43,6 +56,9 @@ public class UserRepositoryTests {
 		assertTrue(user.getName().equals(name));
 	}
 	
+	/**
+	 * Test find users by pattern.
+	 */
 	@Test 
 	final void testFindUsersByPattern()
 	{
@@ -58,6 +74,9 @@ public class UserRepositoryTests {
 	}
 		
 	
+	/**
+	 * Test find user entity by user id.
+	 */
 	@Test 
 	final void testFindUserEntityByUserId()
 	{
@@ -68,6 +87,9 @@ public class UserRepositoryTests {
 		assertTrue(userEntity.getUserId().equals(userId));
 	}
 	
+	/**
+	 * Creates the recrods.
+	 */
 	private void createRecrods()
 	{
 		

@@ -32,8 +32,10 @@ import org.json.*;
 import org.modelmapper.ModelMapper;
 
 /**
- * @author Rebvar
+ * The Class LocationServiceImpl.
  *
+ * @author Rebvar
+ * 
  * Implements the LocationService interface as service. 
  * Performs various operations for location data and presenting the
  *  results through Data transfer objects.
@@ -44,25 +46,36 @@ public class LocationServiceImpl implements LocationService{
 
 	//CrudRepositories for various operations on location data
 	
+	/** The city repository. */
 	@Autowired
 	CityRepository cityRepository;
 	
+	/** The country repository. */
 	@Autowired
 	CountryRepository countryRepository;
 	
+	/** The continent repository. */
 	@Autowired
 	ContinentRepository continentRepository;
 	
 		
+	/** The user repository. */
 	//Accessing the userRepository to save the searches and manage the favorite operations.
 	@Autowired
 	UserRepository userRepository;
 	
 	
+	/** The sutils. */
 	//for generating unique ids. 
 	@Autowired 
 	SecurityUtils sutils;
 	
+	/**
+	 * Gets the user.
+	 *
+	 * @param userId the user id
+	 * @return the user
+	 */
 	private UserEntity getUser(String userId) {
 		UserEntity user = userRepository.findByUserId(userId);
 		if (user==null && userId.length()>0)
@@ -71,6 +84,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Gets the city.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the city
+	 */
 	@Override
 	public CityDTO getCity(String uniqueId, String userId) {
 		UserEntity user = getUser(userId);
@@ -83,6 +103,13 @@ public class LocationServiceImpl implements LocationService{
 		return cityDto;
 	}
 	
+	/**
+	 * Gets the country.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the country
+	 */
 	@Override
 	public CountryDTO getCountry(String uniqueId, String userId) {
 		
@@ -96,6 +123,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Gets the continent.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the continent
+	 */
 	@Override
 	public ContinentDTO getContinent(String uniqueId, String userId) {
 		UserEntity user = getUser(userId);
@@ -108,6 +142,14 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Search city by country.
+	 *
+	 * @param name the name
+	 * @param countryId the country id
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> searchCityByCountry(String name, String countryId, String userId) {
 		CountryEntity countryEntity = countryRepository.findByUniqueId(countryId);
@@ -123,6 +165,14 @@ public class LocationServiceImpl implements LocationService{
 		return ret;
 	}
 	
+	/**
+	 * Search country by continent.
+	 *
+	 * @param name the name
+	 * @param continentId the continent id
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CountryDTO> searchCountryByContinent(String name, String continentId, String userId) {
 		ContinentEntity continentEntity = continentRepository.findByUniqueId(continentId);
@@ -140,6 +190,14 @@ public class LocationServiceImpl implements LocationService{
 	}
 	
 	
+	/**
+	 * Search city by continent.
+	 *
+	 * @param name the name
+	 * @param continentId the continent id
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> searchCityByContinent(String name, String continentId, String userId) {
 		ContinentEntity continentEntity = continentRepository.findByUniqueId(continentId);
@@ -155,6 +213,13 @@ public class LocationServiceImpl implements LocationService{
 		return ret;
 	}
 	
+	/**
+	 * Search city.
+	 *
+	 * @param name the name
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> searchCity(String name, String userId) {
 		UserEntity user = getUser(userId);
@@ -165,11 +230,25 @@ public class LocationServiceImpl implements LocationService{
 		return ret;
 	}
 
+	/**
+	 * Delete from favorites.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the city DTO
+	 */
 	@Override
 	public CityDTO deleteFromFavorites(String uniqueId, String userId) {
 		return null;
 	}
 
+	/**
+	 * Adds the to favorites.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the city DTO
+	 */
 	@Override
 	public CityDTO addToFavorites(String uniqueId, String userId) {		
 		return null;
@@ -178,10 +257,22 @@ public class LocationServiceImpl implements LocationService{
 	
 	
 	
+	/**
+	 * Save continent.
+	 *
+	 * @param continentData the continent data
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<ContinentDTO> saveContinent(ContinentRequestModel continentData, String userId)
 	{
 		List<ContinentDTO> retContinents = new ArrayList<ContinentDTO>();
+		if (continentData== null )
+			return retContinents;
+		
+		continentData.setName(Util.nullToStr(continentData.getName()).toLowerCase());
+		
 		ModelMapper mapper = new ModelMapper();
 		
 		ContinentEntity continentEntity = null;
@@ -205,12 +296,30 @@ public class LocationServiceImpl implements LocationService{
 	}
 	
 	
+	/**
+	 * Save country.
+	 *
+	 * @param countryData the country data
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CountryDTO> saveCountry(CountryRequestModel countryData, String userId)
 	{
 		List<CountryDTO> retCountries = new ArrayList<CountryDTO>();
+		
+		if (countryData==null)
+			return retCountries;
+		
 		ModelMapper mapper = new ModelMapper();
+		
+		countryData.setContinentName(Util.nullToStr(countryData.getContinentName()).toLowerCase());
+		countryData.setName(Util.nullToStr(countryData.getName()).toLowerCase());
+		countryData.setContinentUniqueId(Util.nullToStr(countryData.getContinentUniqueId()));
+		
+		
 		String continentId = Util.nullToStr(countryData.getContinentUniqueId());
+		
 		
 		ContinentEntity continentEntity = null;
 		CountryEntity countryEntity;
@@ -254,6 +363,13 @@ public class LocationServiceImpl implements LocationService{
 		return retCountries;
 	}
 
+	/**
+	 * Save city.
+	 *
+	 * @param cityData the city data
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> saveCity(CityRequestModel cityData, String userId) {
 		
@@ -264,11 +380,7 @@ public class LocationServiceImpl implements LocationService{
 		
 		ModelMapper mapper = new ModelMapper();
 		
-		cityData.setContinentName(Util.nullToStr(cityData.getContinentName()).toLowerCase());
-		cityData.setCountryName(Util.nullToStr(cityData.getCountryName()).toLowerCase());
-		cityData.setName(Util.nullToStr(cityData.getName()).toLowerCase());
-		cityData.setCountryUniqueId(Util.nullToStr(cityData.getCountryUniqueId()));
-		cityData.setContinentUniqueId(Util.nullToStr(cityData.getContinentUniqueId()));
+		validateCityRequestModel(cityData);
 		
 		String countryId = Util.nullToStr(cityData.getCountryUniqueId());
 		String continentId = Util.nullToStr(cityData.getContinentUniqueId());
@@ -347,6 +459,22 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	public void validateCityRequestModel(CityRequestModel cityData) {
+		cityData.setContinentName(Util.nullToStr(cityData.getContinentName()).toLowerCase());
+		cityData.setCountryName(Util.nullToStr(cityData.getCountryName()).toLowerCase());
+		cityData.setName(Util.nullToStr(cityData.getName()).toLowerCase());
+		cityData.setCountryUniqueId(Util.nullToStr(cityData.getCountryUniqueId()));
+		cityData.setContinentUniqueId(Util.nullToStr(cityData.getContinentUniqueId()));
+	}
+
+
+	/**
+	 * New city.
+	 *
+	 * @param cityData the city data
+	 * @param countryEntity the country entity
+	 * @return the city entity
+	 */
 	private CityEntity newCity(CityRequestModel cityData, CountryEntity countryEntity) {
 		if (cityData.getName().length()<=0)
 			throw new RuntimeException("Invalid city name...");
@@ -362,6 +490,12 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * New continent.
+	 *
+	 * @param cityData the city data
+	 * @return the continent entity
+	 */
 	private ContinentEntity newContinent(CityRequestModel cityData) {
 		
 		if (cityData.getContinentName().length()<=0)
@@ -378,6 +512,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * New county.
+	 *
+	 * @param cityData the city data
+	 * @param continentEntity the continent entity
+	 * @return the country entity
+	 */
 	private CountryEntity newCounty(CityRequestModel cityData, ContinentEntity continentEntity) {
 		
 		if (cityData.getCountryName().length()<=0)
@@ -399,6 +540,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 	
+	/**
+	 * Find continent.
+	 *
+	 * @param cityData the city data
+	 * @param continentId the continent id
+	 * @return the continent entity
+	 */
 	public ContinentEntity findContinent(CityRequestModel cityData, String continentId) {
 		ContinentEntity continentEntity;
 		if (!continentId.isEmpty())
@@ -417,6 +565,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Delete city.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the city DTO
+	 */
 	@Override
 	public CityDTO deleteCity(String uniqueId, String userId) {
 		
@@ -430,6 +585,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Delete country.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> deleteCountry(String uniqueId, String userId) {
 		CountryEntity entity = countryRepository.findByUniqueId(uniqueId);
@@ -446,6 +608,13 @@ public class LocationServiceImpl implements LocationService{
 	}
 
 
+	/**
+	 * Delete continent.
+	 *
+	 * @param uniqueId the unique id
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CityDTO> deleteContinent(String uniqueId, String userId) {
 		ContinentEntity entity = continentRepository.findByUniqueId(uniqueId);
@@ -460,6 +629,13 @@ public class LocationServiceImpl implements LocationService{
 		return deletedCities;
 	}
 
+	/**
+	 * Search continent.
+	 *
+	 * @param name the name
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<ContinentDTO> searchContinent(String name, String userId) {
 		UserEntity user = getUser(userId);
@@ -470,6 +646,13 @@ public class LocationServiceImpl implements LocationService{
 		return ret;
 	}
 
+	/**
+	 * Search country.
+	 *
+	 * @param name the name
+	 * @param userId the user id
+	 * @return the list
+	 */
 	@Override
 	public List<CountryDTO> searchCountry(String name, String userId) {
 		UserEntity user = getUser(userId);
@@ -480,15 +663,19 @@ public class LocationServiceImpl implements LocationService{
 		return ret;
 	}
 
+	/**
+	 * Loads from Resources.
+	 *
+	 * @param maxCount the max count
+	 * @return the int
+	 */
 	@Override
-	public int bulkLoad(int maxCount) {
+	public int loadFromResources(int maxCount) {
 		int count = 0;
 		CityRequestModel city = new CityRequestModel();		
 		List<String[]> data = ResourceUtil.ReadCountryData();
 		if (maxCount == 0)
 			maxCount = data.size();
-		//System.out.println("Data size is :"+maxCount);
-		//System.out.println("Loaded data is :"+data.size());
 		
 		for (String[] item : data)
 		{
