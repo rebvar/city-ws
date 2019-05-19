@@ -15,10 +15,10 @@ import com.rebvar.location_app.backend.ws.AppConstants;
 public class HomeController {
 	
 	/**
-	 * Invalid request.
+	 * Dummy request.
 	 *
 	 * @param Auth_Token the auth token
-	 * @return the string
+	 * @return a string prompting invalid request. Used to adjust security with the application.properties parameter to enable or disable security. The method is exposed when security is enabled.
 	 */
 	@RequestMapping(path = "/invalid", produces = { MediaType.APPLICATION_XML_VALUE, MediaType.APPLICATION_JSON_VALUE }, method = {RequestMethod.GET, RequestMethod.POST, RequestMethod.DELETE})
 	public String invalidRequest(@RequestHeader(name = AppConstants.HEADER_STRING, defaultValue = AppConstants.INVALID_AUTH_DEFAULT_VALUE) String Auth_Token)

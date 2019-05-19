@@ -8,8 +8,8 @@ public class Util {
 	/**
 	 * Null to str.
 	 *
-	 * @param value the value
-	 * @return the string
+	 * @param value the value to be checked
+	 * @return value if it is not null, "" otherwise.
 	 */
 	public static String nullToStr(String value)
 	{

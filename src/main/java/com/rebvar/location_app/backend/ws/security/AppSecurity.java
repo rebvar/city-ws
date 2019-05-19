@@ -32,10 +32,9 @@ public class AppSecurity extends WebSecurityConfigurerAdapter {
 	
 	
 	/**
-	 * Configure.
-	 *
-	 * @param httpSecurity the http security
-	 * @throws Exception the exception
+	 * Configures the security of the app. Exposes different endpoints. Adjusts which endpoint to be exposed when security is enabled or disabled.
+	 * Uses a dummy endpoint to decide what to expose.
+	 * @param httpSecurity the http security config
 	 */
 	@Override
 	protected void configure(HttpSecurity httpSecurity) throws Exception
@@ -83,7 +82,7 @@ public class AppSecurity extends WebSecurityConfigurerAdapter {
 	
 	/**
 	 * Gets the authentication filter.
-	 *
+	 * Sets the login endpoint. 
 	 * @return the authentication filter
 	 * @throws Exception the exception
 	 */

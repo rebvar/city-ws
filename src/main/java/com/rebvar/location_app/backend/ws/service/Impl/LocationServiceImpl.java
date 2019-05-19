@@ -686,7 +686,6 @@ public class LocationServiceImpl implements LocationService{
 			try
 			{
 				saveCity(city, "");
-				//System.out.println("saved :"+city);
 				count+=1;
 			}
 			catch(Exception ex)
@@ -698,7 +697,6 @@ public class LocationServiceImpl implements LocationService{
 			if (count>=maxCount)
 				break;
 		}
-		//System.out.println("Count after bulk load is :"+count);
 		return count;
 	}
 }

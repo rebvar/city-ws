@@ -24,7 +24,7 @@ public interface LocationService {
 	/**
 	 * Gets the city.
 	 *
-	 * @param uniqueId the unique id
+	 * @param uniqueId the unique id of the city
 	 * @param userId the user id
 	 * @return the city
 	 */
@@ -42,7 +42,7 @@ public interface LocationService {
 	/**
 	 * Gets the continent.
 	 *
-	 * @param uniqueId the unique id
+	 * @param uniqueId the unique id of the country
 	 * @param userId the user id
 	 * @return the continent
 	 */
@@ -72,7 +72,7 @@ public interface LocationService {
 	 *
 	 * @param cityData the city data
 	 * @param userId the user id
-	 * @return the list
+	 * @return a list that contains the savedCity, if it does not exist, or the existing city from the database.
 	 */
 	public List<CityDTO> saveCity(CityRequestModel cityData, String userId);
 	
@@ -108,7 +108,7 @@ public interface LocationService {
 	 *
 	 * @param uniqueId the unique id
 	 * @param userId the user id
-	 * @return the list
+	 * @return the list of cities that are deleted in that country
 	 */
 	public List<CityDTO> deleteCountry (String uniqueId, String userId);
 	
@@ -117,7 +117,7 @@ public interface LocationService {
 	 *
 	 * @param uniqueId the unique id
 	 * @param userId the user id
-	 * @return the list
+	 * @return the list of cities deleted in that continent.
 	 */
 	public List<CityDTO> deleteContinent (String uniqueId, String userId);
 	
@@ -127,7 +127,7 @@ public interface LocationService {
 	 *
 	 * @param name the name
 	 * @param publicUserId the public user id
-	 * @return the list
+	 * @return the list of cities with the partial name : name
 	 */
 	public List<CityDTO> searchCity(String name, String publicUserId);
 	
@@ -183,8 +183,8 @@ public interface LocationService {
 	/**
 	 * Loads data from resource data.txt file.
 	 *
-	 * @param maxCount the max count
-	 * @return the int
+	 * @param maxCount the max number of items to read and store.
+	 * @return number of items that are loaded.
 	 */
 	public int loadFromResources(int maxCount);
 	

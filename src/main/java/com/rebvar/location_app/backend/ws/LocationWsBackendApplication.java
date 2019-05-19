@@ -27,6 +27,7 @@ public class LocationWsBackendApplication {
 	 */
 	public static void main(String[] args) {
 	
+		//Loads application.properties file and reads the required constants at strat.
 		ResourceUtil.LoadApplicationConstants();	
 		SpringApplication.run(LocationWsBackendApplication.class, args);
 	}
