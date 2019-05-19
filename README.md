@@ -92,15 +92,7 @@ I implemented the security using the spring security framework to restrict acces
 One can login and register using the following examples: 
 
 ```
-curl -X POST \
-  http://localhost:8080/city-ws/users \
-  -H 'Accept: application/json' \
-  -H 'Content-Type: application/json' \
-  -d '{
-	"name":"rebvar",
-	"email":"rebvar@gmail.com",
-	"password":"123"
-}'
+curl -X POST localhost:8080/city-ws/users  -H "Accept: application/json" -H "Content-Type: application/json" -d "{\"name\":\"rebvar\",\"email\":\"rebvar@gmail.com\",\"password\":\"123\"}"
 ```
 
 The reponse to this looks as follows: 
@@ -118,14 +110,7 @@ which denotes successful registration.
 One can login using:
 
 ```
-curl -X POST \
-  http://localhost:8080/city-ws/users/login \
-  -H 'Accept: application/json' \
-  -H 'Content-Type: application/json' \
-  -d '{
-	"email":"rebvar@gmail.com",
-	"password":"123"
-}'
+curl -X POST localhost:8080/city-ws/users/login -H "Accept: application/json" -H "Content-Type: application/json" -d "{\"email\":\"rebvar@gmail.com\",\"password\":\"123\"}"
 ```
 
 The resulting Authorization token which is similar to the following: 
@@ -135,7 +120,6 @@ Authorization→TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtO
 ```
 
 can be used with the protected requests to access the endpoints.
-
 
 # Search
 
@@ -183,16 +167,7 @@ Data can be fed into the model using the post methods and models for city, count
 Consider the following example:
 
 ```
-curl -X POST \
-  http://localhost:8080/city-ws/map/city \
-  -H 'Accept: application/json' \
-  -H 'Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDcxOTF9.RbP7mQR9VXd1kvnNkE3IbTqN8FGJbcItfhR6k2qhk9LR-JMQ7TduZOwkTzER0RQC852mgsJtP2n7zygbNSLGXg' \
-  -H 'Content-Type: application/json' \
-  -d '{
-	"continentName":"Europe",
-	"countryName":"Finland",
-	"name": "pori" 
-}'
+curl -X POST http://localhost:8080/city-ws/map/city -H "Accept: application/json" -H "Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDcxOTF9.RbP7mQR9VXd1kvnNkE3IbTqN8FGJbcItfhR6k2qhk9LR-JMQ7TduZOwkTzER0RQC852mgsJtP2n7zygbNSLGXg"   -H "Content-Type: application/json"  -d "{	\"continentName\":\"Europe\",\"countryName\":\"Finland\",\"name\": \"pori\" }"
 
 ```
 
@@ -202,11 +177,7 @@ The city can be deleted using the id as follows:
 
 ```
 
-curl -X DELETE \
-  http://localhost:8080/city-ws/map/city/90b968be-eb62-4d1b-a641-e06f1d1c535e \
-  -H 'Accept: application/json' \
-  -H 'Content-Type: application/json' \
-  -H 'Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDcxOTF9.RbP7mQR9VXd1kvnNkE3IbTqN8FGJbcItfhR6k2qhk9LR-JMQ7TduZOwkTzER0RQC852mgsJtP2n7zygbNSLGXg'
+curl -X DELETE http://localhost:8080/city-ws/map/city/90b968be-eb62-4d1b-a641-e06f1d1c535e -H "Accept: application/json" -H "Content-Type: application/json" -H 'Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDcxOTF9.RbP7mQR9VXd1kvnNkE3IbTqN8FGJbcItfhR6k2qhk9LR-JMQ7TduZOwkTzER0RQC852mgsJtP2n7zygbNSLGXg"
 
 ```
 
@@ -216,11 +187,7 @@ Similar endpoints exist for county and continent. The delete method uses DELETE 
 The data can also be inserted from a resource file included in the resource folder under data folder and name data.txt. To load the data from this file to the database, one should run :
 
 ```
-curl -X POST \
-  http://localhost:8080/city-ws/map/admin/bulk-load/200 \
-  -H 'Accept: application/json' \
-  -H 'Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDc3NDZ9.D5sV7IfYxJ9wXZ-clY1cV26JRUZ3-wl0O51TeDNLzKl0LYbUvdE4Hpcnt6SQXaSvoCxsSY2Mg5UoVD5XtKo6Ig' \
-  -H 'Content-Type: application/json' \
+curl -X POST http://localhost:8080/city-ws/map/admin/bulk-load/200 -H "Accept: application/json" -H "Authorization: TOKEN_eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4NmJlNjU5Yi03YTQ2LTRjNzMtOWFjZi0xODYyNjQ0ZDA2OWUiLCJleHAiOjE1NTg5NDc3NDZ9.D5sV7IfYxJ9wXZ-clY1cV26JRUZ3-wl0O51TeDNLzKl0LYbUvdE4Hpcnt6SQXaSvoCxsSY2Mg5UoVD5XtKo6Ig" -H "Content-Type: application/json"
 ```
 
 This method returns the number of items that were inserted or were there before in the dataset. The value specified, shows the number of lines that need to be inserted into the database. This process can be time consuming and including it in the endpoint is a bad practice. But I exposed it this way for your convinience.
